@@ -1,0 +1,701 @@
+Participants,Name,Age,Gender,Village,Thana,Distric,Type of disease,Regularly taken medication,Diabetes,Steps to control diabetes,Blood pressure,Diabetic patient in family history,Knowledge about drug induce diabetes,Knowledge about diabetes in children and young adult,Knowledge about diabetes and pregnency,Currently smoking tobacco product,Previously somking tobacco products,Age when tobacco products were taken first,Age of stopping tobacco products,Taking betel,Taking betel nut,Tobaco with betel,Relationship between smoking and cancer,Relationship between smoking and diabetes,No. of days of eating fruits in a week,No. of days of eating vegetables in a week,No.of days of eating meats in week,No.of days of eating fish in week,No.of days of eating milk in week,No.of days of eating lentil in week,No.of days of eating soft drinks  in week,Amount of slat taken with foods,No. of days in a week engaged in activities,Amount of time spend in activity,Walking 10 minutes at a straight ,No.of days of walking about 10 minutes in a week,Fitness activity in a week,Amount of time spent in fitness activities,Sleeping in a whole day,Sleeping at night time,NAP,Disturbance in sleep
+1,Akbar mondol,70,M,Shablat,Shalikha,Magura,N,N,N,N,L,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,0,7,1,7,0,2,0,H,0,0,Y,3,0,0,6,6,0,N
+2,Momena khatun,65,F,Shablat,Shalikha,Magura,"Asthama, CVD",N,N,N,H,Y,N,N,N,N,N,N,N,Y,N,Y,Y,N,0,7,1,7,0,2,0,N,0,0,N,0,0,0,8,8,0,N
+3,Ratna khatun,35,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,0,2,0,N,7,6,Y,7,0,0,6,6,0,N
+4,Saijoddi rahman,38,M,Shablat,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,0,2,0,N,7,5,Y,7,0,0,7,7,0,N
+5,Uzzal ,32,F,Shablat,Shalikha,Magura,Night fever,N,N,N,No.,N,N,N,N,Y,Y,15,N,N,N,N,Y,N,1,7,3,7,0,3,0,H,7,5,Y,7,0,0,6,6,0,N
+6,Jesmin,26,F,Shablat,Shalikha,Magura,Asthama ,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,3,7,0,3,0,H,7,4,N,0,0,0,6,6,0,N
+7,Olear rahman,60,M,Shablat,Shalikha,Magura,Waist pain,Pain killer,N,N,No.,N,N,N,N,N,Y,25,40,Y,Y,Y,Y,N,0,7,0,7,0,2,0,H,7,5,Y,7,0,0,6,6,0,N
+8,Rebeca khatun,50,F,Shablat,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,0,0,N,7,3,N,0,0,0,8,8,0,N
+9,Akidul mia,30,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,0,7,2,7,0,1,1,H,7,5,Y,7,0,0,8,8,0,N
+10,Lota,28,F,Shablat,Shalikha,Magura,N,N,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,2,7,0,1,1,H,7,4,N,0,0,0,9,9,0,N
+11,Alamin,23,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,18,N,N,N,N,Y,N,0,7,1,0,0,0,0,H,7,5,Y,7,0,0,8,8,0,N
+12,Nowsher sikder,65,M,Shablat,Shalikha,Magura,Asthama,Anti-histamine,N,N,No.,N,N,N,N,Y,Y,10,N,N,N,N,Y,N,0,7,1,0,0,1,0,N,0,0,N,0,0,0,10,9,1,N
+13,Rokeya khatun,50,F,Shablat,Shalikha,Magura,"Arthritis, gastric, vision",N,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,0,7,1,0,0,1,0,N,7,5,N,0,0,0,8,8,0,N
+14,Sabana begum,35,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,1,0,M,3,7,N,0,0,0,10,10,0,N
+15,Sabana khatun,40,F,Shablat,Shalikha,Magura,CVD,N,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,1,0,0,0,H,7,3,N,0,0,0,10,9,1,N
+16,Akij sikder,45,M,Shablat,Shalikha,Magura,Leg problem,Pain killer,N,N,No.,N,N,N,N,Y,Y,15,N,N,N,N,Y,N,0,7,0,1,0,0,0,N,5,2,Y,7,0,0,5,5,0,Y
+17,Joshim uddin,23,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,18,N,N,N,N,Y,N,0,7,0,7,0,2,0,N,4,2,Y,7,0,0,7,7,0,N
+18,Alea begum,60,F,Shablat,Shalikha,Magura,CVD,N,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,0,2,0,0,0,H,0,0,N,0,0,0,2,2,0,Y
+19,Shorab sikder,50,M,Shablat,Shalikha,Magura,N,N,N,N,H,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,2,7,1,7,5,2,0,N,7,5,Y,7,0,0,6,6,0,N
+20,Pinjira khatun,45,F,Shablat,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,5,2,0,N,7,3,N,0,0,0,7,7,0,N
+21,Sobuj mia,30,M,Shablat,Shalikha,Magura,Paralysis,Y,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,5,2,0,N,0,0,N,0,0,0,7,7,0,Y
+22,Billal mia,25,M,Shablat,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,Y,Y,20,N,N,N,N,Y,N,2,7,1,7,5,2,0,N,7,5,Y,7,0,0,8,8,0,N
+23,Rabeya khatun,55,F,Shablat,Shalikha,Magura,CVD,N,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,0,3,0,0,0,M,0,0,N,0,0,0,6,6,0,Y
+24,Rahela khatun,48,F,Shablat,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,Y,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,2,3,0,0,0,N,7,5,N,0,0,0,9,8,1,Y
+25,Sahidur Rahman,51,M,Shablat,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,Y,N,N,Y,Y,Y,15,N,N,N,N,Y,N,3,6,2,3,0,0,0,H,7,4,Y,7,0,0,8,7,1,Y
+26,Tripti khatun,30,F,Shablat,Shalikha,Magura,Night fever,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,6,0,7,0,2,0,H,7,4,N,0,0,0,9,9,0,N
+27,Shoriful islam,35,M,Shablat,Shalikha,Magura,Asthama,N,N,N,No.,N,N,N,N,Y,Y,30,N,N,N,N,Y,N,5,6,0,7,0,0,2,M,7,6,Y,7,0,0,7,7,0,Y
+28,Laili khatun,60,F,Shablat,Shalikha,Magura,"CVD, Arthritis",Pain killer,N,N,L,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,5,6,0,7,0,0,0,N,7,3,N,0,0,0,9,9,0,Y
+29,Jobed molla,70,M,Shablat,Shalikha,Magura,Asthama,Anti-histamine,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,5,6,0,7,0,0,0,N,0,0,N,0,0,0,9,9,0,Y
+30,Motiron ,50,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,6,0,0,0,N,7,5,N,0,0,0,9,9,0,N
+31,Keramot molla,55,M,Shablat,Shalikha,Magura,Asthama,Anti-histamine,N,N,No.,N,N,N,N,Y,Y,15,N,N,N,N,Y,N,3,7,0,6,0,0,0,N,7,4,Y,7,0,0,7,7,0,N
+32,Rikta khatun,30,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,6,0,0,0,N,7,3,N,0,0,0,9,9,0,N
+33,Sahanaj khatun,24,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,6,0,0,0,N,0,0,N,0,0,0,10,10,0,N
+34,Meru molla,50,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,7,0,0,0,N,7,6,Y,7,0,0,7,7,0,N
+35,Alea khatun,48,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,7,0,0,0,N,7,5,N,0,0,0,9,9,0,Y
+36,Laboni kahtun,26,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,7,2,0,0,M,7,5,N,0,0,0,8,8,0,N
+37,Muslima khatun,45,F,Shablat,Shalikha,Magura,N,N,N,N,L,Y,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,5,0,0,0,N,7,4,N,0,0,0,8,8,0,Y
+38,Bablu mia,30,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,0,7,1,7,1,0,0,H,7,4,Y,7,0,0,8,8,0,N
+39,Shiblu mia,23,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,15,N,N,N,N,Y,N,0,7,1,7,1,0,0,H,4,2,Y,7,0,0,10,10,0,N
+40,Sobura khatun,45,F,Shablat,Shalikha,Magura,Arthritis ,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,1,0,0,M,7,4,N,0,0,0,8,8,0,N
+41,Monira khatun,25,F,Shablat,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,1,0,0,M,7,4,N,0,0,0,9,9,0,N
+42,Nayeb molla,48,M,Shablat,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,5,0,0,0,H,7,4,N,0,0,0,8,8,0,N
+43,Rasel,22,M,Shablat,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,5,0,0,0,N,7,6,Y,7,0,0,9,9,0,N
+44,Boru bibi,65,F,Shablat,Shalikha,Magura,"Gastric, constipation",PPI,N,N,L,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,0,7,0,2,0,0,0,N,7,2,N,0,0,0,7,7,0,Y
+45,Malek molla,70,M,Shablat,Shalikha,Magura,Vision,N,N,N,No.,N,N,N,N,N,Y,20,30,Y,Y,Y,Y,N,0,7,0,2,0,0,0,N,7,3,N,0,0,0,8,8,0,Y
+46,Sohid mondol,65,M,Shablat,Shalikha,Magura,Night fever,N,N,N,No.,N,N,N,N,Y,Y,18,N,N,N,N,Y,N,0,7,1,7,7,0,0,H,7,4,Y,7,0,0,2,2,0,Y
+47,Fulmia,35,M,Shablat,Shalikha,Magura,Allergy,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,0,7,1,7,7,0,0,N,7,1,N,0,0,0,7,7,0,N
+48,Shewli khatun,32,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,7,0,0,N,7,3,N,0,0,0,9,9,0,N
+49,Fuli khatun,60,F,Shablat,Shalikha,Magura,"CVD, Gastric","Cardioascular drugs, PPI",N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,7,0,0,N,7,4,N,0,0,0,6,6,0,Y
+50,kalu mia,29,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,7,0,0,N,7,6,N,0,0,0,8,8,0,N
+51,Imran khan,23,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,7,0,0,H,7,2,Y,7,0,0,9,9,0,N
+52,Dalim khatun,35,F,Shablat,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,1,7,7,0,0,M,7,1,N,0,0,0,6,6,0,Y
+53,Emela khatun,75,F,Shablat,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,H,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,0,7,2,7,3,0,0,H,0,0,N,0,0,0,10,10,0,Y
+54,Rohima khatun,40,F,Shablat,Shalikha,Magura,Arthritis,N,N,N,L,Y,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,2,7,3,0,0,N,7,4,N,0,0,0,9,9,0,N
+55,Roksana ,30,F,Shablat,Shalikha,Magura,N,N,N,N,L,Y,N,Y,N,N,N,N,N,N,N,N,Y,N,0,7,2,7,3,0,0,N,7,6,N,0,0,0,5,5,0,N
+56,Pannu mia,38,M,Shablat,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,Y,N,N,N,Y,Y,33,N,N,N,N,Y,N,0,7,2,7,3,0,0,H,7,6,Y,7,0,0,8,8,0,N
+57,Rubina khatun,22,F,Shablat,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,2,7,3,0,0,N,7,6,N,0,0,0,5,5,0,N
+58,Bakiar mia,35,M,Shablat,Shalikha,Magura,Allergy,Anti-histamine,N,N,L,Y,N,N,N,Y,Y,25,N,N,N,N,Y,N,0,7,2,7,3,0,0,H,7,6,Y,7,0,0,7,7,0,N
+59,Atiar Rahman,40,M,Shablat,Shalikha,Magura,"CVD, Spasm, asthama",Cardioascular drugs,N,N,L,Y,N,N,N,Y,Y,30,N,N,N,N,Y,N,0,7,0,7,7,0,0,H,7,5,Y,7,0,0,8,8,0,N
+60,Arjina khatun,40,F,Shablat,Shalikha,Magura,Migraine,Migrain,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,7,7,0,0,M,7,5,N,0,0,0,8,8,0,N
+61,Momena khatun,55,F,Shablat,Shalikha,Magura,Gastric ,PPI,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,0,7,0,7,0,0,0,N,7,2,Y,2,0,0,8,8,0,Y
+62,Toyeb mawlana,69,M,Shablat,Shalikha,Magura,Asthama,Anti-histamine,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,4,7,7,0,0,H,7,4,Y,7,0,0,4,4,0,Y
+63,Sufia khatun,55,F,Shablat,Shalikha,Magura,CVD,N,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,4,7,7,0,0,H,7,2,N,0,0,0,6,6,0,N
+64,Monirujjaman,32,M,Shablat,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,4,7,7,0,0,N,7,1,Y,2,0,0,7,7,0,N
+65,shilpina khatun,45,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,4,7,7,0,0,M,7,3,N,0,0,0,8,8,0,N
+66,Rabeya khatun,29,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,N,7,7,2,7,7,0,0,N,0,0,Y,7,0,0,6,6,0,Y
+67,Aklima khatun,44,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,4,7,2,0,0,N,7,2,N,0,0,0,8,8,0,N
+68,Idrish mia,50,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,4,7,2,0,0,M,7,2,N,0,0,0,7,7,0,N
+69,Monjila biswas,50,F,Dhawkhali,Shalikha,Magura,Vision,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,2,0,M,7,4,N,0,0,0,9,9,0,N
+70,Alauddin,50,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,Y,3,7,1,7,0,2,0,M,5,2,Y,3,0,0,6,6,0,Y
+71,Sripoti biswas,55,M,Dhawkhali,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,Y,Y,12,N,N,N,N,Y,N,4,7,0,7,0,2,0,N,7,3,Y,7,0,0,7,7,0,N
+72,Abu syed,48,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,3,7,2,7,0,1,1,N,7,3,N,0,0,0,7,7,0,N
+73, Rejaul islam,50,M,Shablat,Shalikha,Magura,Asthama,Anti-histamine,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,1,0,N,7,4,N,0,0,0,8,7,1,N
+74,Rifat mia,21,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,18,N,N,N,N,Y,N,3,7,3,7,2,3,2,M,0,0,Y,7,0,0,8,8,0,N
+75,Reshma khatun,45,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,7,2,3,0,N,7,5,N,0,0,0,7,7,0,N
+76,Robiul islam,50,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,3,7,2,3,0,N,7,6,N,0,0,0,7,7,0,N
+77,Khokhon hossain,45,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,1,0,M,7,5,Y,5,0,0,7,7,0,N
+78,Ivy khatun,30,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,2,0,N,7,4,Y,2,0,0,6,6,0,N
+79,Jamal uddin,50,M,Shablat,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,1,7,4,2,0,N,0,0,Y,3,0,0,7,7,0,Y
+80,Suborna biswas,48,F,Singra,Shalikha,Magura,Migraine,N,N,N,L,Y,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,0,0,M,7,4,Y,3,0,0,7,6,1,Y
+81,Bissojit biswas,70,M,Singra,Shalikha,Magura,"CVD, Asthama",Cardioascular drugs,N,N,L,Y,N,N,N,N,Y,20,60,Y,Y,Y,Y,N,1,7,1,7,0,0,0,N,0,0,N,0,0,0,5,5,0,Y
+82,Onupoma biswas,65,F,Shablat,Shalikha,Magura,"Arthritis, gastric","NSAID, PPI",N,N,L,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,1,7,1,7,0,0,0,H,0,0,N,0,0,0,6,6,0,Y
+83,Kishor biswas,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,Y,Y,20,N,N,N,N,Y,Y,4,7,5,4,0,2,3,M,0,0,Y,7,0,0,8,8,2,N
+84,Robi biswas,50,M,Singra,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,Y,Y,25,,N,N,N,Y,N,4,7,5,4,0,2,0,M,7,3,Y,5,0,0,7,7,0,N
+85,Mili biswas,45,F,Singra,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",L,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,5,4,0,2,0,N,7,2,Y,7,0,0,6,6,0,N
+86,Soma biswas,28,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,4,7,5,4,0,3,0,N,0,0,N,0,0,0,7,7,0,N
+87,Obonti sikder,48,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,5,2,3,0,N,7,4,Y,5,0,0,7,7,0,N
+88,Anamika sikder,30,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,3,5,2,3,1,N,0,0,N,0,0,0,8,6,2,N
+89,Romen biswas,35,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,1,5,3,3,2,M,7,3,Y,5,0,0,7,7,0,N
+90,Oporna biswas,55,F,Dhawkhali,Shalikha,Magura,Vision,N,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,1,6,2,3,4,3,0,N,0,0,N,0,0,0,9,9,0,N
+91,Anup biswas,60,M,Dhawkhali,Shalikha,Magura,Allergy,Homeopathy,N,N,No.,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,1,7,2,3,4,3,0,M,0,0,N,0,0,0,8,8,0,N
+92,Sojib biswas,22,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,2,3,4,3,2,H,0,0,Y,5,0,0,8,8,0,N
+93,Kakoli biswas,38,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,3,2,3,4,0,N,7,3,N,0,0,0,7,7,0,N
+94,Sukehs biswas,45,M,Dhawkhali,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,Y,Y,15,N,N,N,N,Y,N,1,6,2,3,4,3,0,M,7,3,Y,2,0,0,7,6,1,N
+95,Subas biswas,60,M,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,L,N,N,N,N,N,Y,20,50,N,N,N,Y,N,3,6,2,4,0,2,0,M,0,0,N,0,0,0,8,8,0,N
+96,Obonti biswas,22,F,Dhawkhali,Shalikha,Magura,Migraine,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,2,4,0,2,0,N,7,1,Y,3,0,0,6,6,0,N
+97,Monimia biswas,28,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,2,4,0,2,0,M,0,0,Y,5,0,0,7,7,0,N
+98,Saima biswas,38,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,2,4,0,2,0,N,7,3,N,0,0,0,6,6,0,N
+99,Dhiman kumar,45,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,4,0,2,0,H,7,3,Y,2,0,0,8,7,1,N
+100,Kalipodo biswas,65,M,Shablat,Shalikha,Magura,"Insomnia, CVD",Cardioascular drugs,N,N,L,N,N,N,N,N,Y,15,50-,Y,Y,Y,Y,N,1,7,1,3,0,3,0,N,0,0,N,0,0,0,2,2,0,Y
+101,Mili biswas,50,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,3,0,3,0,N,7,4,N,0,0,0,7,6,1,N
+102,Komol biswas,55,M,Dhawkhali,Shalikha,Magura,Asthama,Anti-histamine,N,N,No.,N,N,N,N,Y,Y,15,N,N,N,N,Y,N,1,7,1,3,0,3,0,M,0,0,Y,2,0,0,6,6,0,N
+103,Sonali biswas,30,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,3,0,3,0,N,7,3,N,0,0,0,6,6,0,N
+104,Shakil biswas,28,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,3,0,3,0,M,7,3,Y,3,0,0,6,6,0,N
+105,Ripon biswas,25,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,1,6,1,3,0,3,2,N,7,3,Y,5,0,0,7,7,0,N
+106,Rebecca biswas,48,F,Dhawkhali,Shalikha,Magura,Migraine,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,3,5,2,0,M,7,4,N,0,0,0,5,5,0,Y
+107,Sripoti biswas ,50,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,3,5,2,0,M,7,2,Y,3,0,0,6,6,0,Y
+108,Mitu biswas,28,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,3,5,2,0,N,7,1,Y,5,0,0,6,6,0,N
+109,Nipa biswas,25,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,5,2,3,5,2,0,M,7,1,Y,2,0,0,7,7,0,N
+110,Komol biswas,45,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,1,3,7,3,0,M,5,3,Y,5,0,0,9,9,0,N
+111,Rupa biswas,40,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,1,3,7,3,0,N,7,3,N,0,0,0,8,8,0,N
+112,Sujit biswas,22,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,1,3,7,3,0,H,3,2,Y,5,0,0,8,8,0,N
+113,Komolesh biswas,60,M,Dhawkhali,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,Y,15,50,Y,Y,Y,Y,N,2,7,1,3,7,3,0,N,0,0,N,0,0,0,5,5,0,Y
+114,Kobita biswas,23,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,3,7,3,0,M,7,1,Y,5,0,0,7,7,0,N
+115,Asad,40,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,0,0,1,M,7,2,Y,7,0,0,8,7,1,N
+116,Forid,39,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,0,0,L,0,0,Y,7,0,0,7,0,0,Y
+117,Kashem,42,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,2,M,7,5,Y,7,0,0,8,8,0,N
+118,Bipul biswas,32,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,4,7,2,5,0,2,1,L,0,0,Y,7,0,0,8,8,0,N
+119,Shamim,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,6,1,6,0,0,2,M,7,2,Y,7,0,0,9,9,0,N
+120,Maruf,33,M,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,2,M,7,2,Y,7,0,0,7,6,1,N
+121,Jovan,38,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,L,7,4,Y,7,0,0,8,8,0,N
+122,Alauddin,53,M,Tilkhari,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,Y,Y,Y,Y,Y,22,N,N,N,N,Y,Y,2,6,1,1,5,2,1,N,4,3,Y,7,0,0,7,7,0,N
+123,Meherab khan,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,Y,Y,18,N,N,N,N,Y,Y,5,6,1,5,2,1,5,M,6,4,Y,5,0,0,8,7,1,N
+124,Bonani ,45,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,6,2,6,2,2,2,L,2,1,Y,3,0,0,8,8,0,N
+125,Sofia,52,F,Tilkhari,Shalikha,Magura,Diabetes,N,Y,Insulin,No.,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,Y,Y,3,5,1,4,2,1,0,L,2,1,Y,5,0,0,8,7,1,N
+126,Monirul,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,2,5,2,1,3,L,5,4,Y,7,0,0,8,7,1,N
+127,Avijit,32,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,4,6,1,5,2,1,3,N,6,5,Y,7,0,0,8,8,0,N
+128,Golam,60,M,Singra,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,0,0,L,0,0,N,0,0,0,8,6,2,N
+129,Nazmul,27,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,Y,20,N,N,N,N,Y,N,2,7,1,7,0,0,0,M,7,3,Y,7,0,0,8,8,0,N
+130,Momena begum,55,F,Singra,Shalikha,Magura,Arthritis,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,1,7,0,0,0,L,3,1,N,0,0,0,6,6,0,Y
+131,Shakila,23,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,0,0,M,7,4,Y,5,0,0,7,7,0,N
+132,Monir,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,6,0,0,0,M,7,2,Y,7,0,0,7,7,0,N
+133,Kalam,42,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,5,3,5,7,0,3,L,7,2,Y,7,0,0,7,7,0,N
+134,Deben biswas,65,M,Dhawkhali,Shalikha,Magura,Kidney problem,N,N,N,L,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,2,7,0,7,0,2,0,M,0,0,Y,2,0,0,4,4,0,Y
+135,Piya biswas,24,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,0,L,7,1,Y,5,0,0,8,8,0,N
+136,Shipla biswas,55,F,Dhawkhali,Shalikha,Magura,Arthritis,Arthritis,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,0,L,7,2,N,0,0,0,8,8,0,N
+137,Bulbul,43,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,0,L,7,4,Y,7,0,0,9,8,1,N
+138,Sorosoti biswas,42,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,1,H,7,4,N,0,0,0,7,7,0,N
+139,Lablu biswas,46,M,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,Y,15,40,N,N,N,Y,N,2,5,1,5,0,2,0,L,7,1,Y,7,0,0,6,6,0,N
+140,Shilu biswas,40,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,1,5,0,2,0,M,7,3,N,0,0,0,7,7,0,N
+141,Modon biswas,21,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,1,5,0,2,2,L,0,0,Y,7,0,0,8,8,0,N
+142,Niloy,24,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,7,2,2,M,7,2,Y,7,0,0,7,7,0,N
+143,Bablu ,36,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,25,0,N,N,N,Y,N,3,7,2,7,7,2,0,H,7,3,Y,7,0,0,6,6,0,N
+144,Paplu biswas,55,M,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,1,6,7,0,0,M,7,2,Y,7,0,0,7,6,1,N
+145,Motiron shikder,50,F,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,6,7,3,0,M,7,2,Y,7,0,0,7,7,0,N
+146,Rahul,32,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,1,5,0,0,0,M,7,3,Y,7,0,0,9,9,0,N
+147,Kamrul,39,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,1,6,0,0,0,L,7,3,Y,7,0,0,8,8,0,N
+148,Najim,29,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,1,M,7,1,Y,7,0,0,8,8,0,N
+149,Bobita,27,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,3,2,0,L,7,2,Y,5,0,0,7,7,0,N
+150,Asad,40,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,0,0,1,M,7,2,Y,7,0,0,8,7,1,N
+151,Israt,27,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,5,3,3,0,N,7,1,Y,7,0,0,9,9,0,N
+152,Jeni,26,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,0,2,1,L,7,1,Y,5,0,0,9,9,0,N
+153,Sumon shikder,28,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,0,M,7,3,Y,7,0,0,6,6,0,N
+154,Mostafiz,26,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,2,2,2,M,0,0,Y,7,0,0,8,7,1,N
+155,Rifat ,22,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,2,M,7,1,Y,7,0,0,7,7,0,N
+156,Romel biswas,42,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,30,N,N,N,Y,N,2,7,0,7,1,2,2,N,7,2,Y,7,0,0,8,8,0,N
+157,Sompa biswas,24,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,0,M,7,2,Y,7,0,0,9,9,0,N
+158,Labonno ,27,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,0,L,7,2,Y,5,0,0,8,8,0,N
+159,Laboni khatun,40,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,N,N,N,N,N,N,N,N,Y,N,4,6,1,5,2,1,0,N,6,1,Y,3,0,0,8,7,1,N
+160,Anindita,27,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,6,6,2,6,1,4,1,N,1,1,Y,2,0,0,10,8,2,N
+161,Suborna,25,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,7,6,2,6,4,2,4,N,2,1,Y,3,0,0,9,8,1,N
+162,Halima begum,50,F,Tilkhari,Shalikha,Magura,Asthama,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,2,7,1,4,3,1,0,N,1,1,Y,6,0,0,8,7,1,Y
+163,Atik hasan,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,4,6,2,5,3,1,4,N,6,5,Y,6,0,0,8,7,1,N
+164,Juthi,27,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,6,2,6,2,1,2,M,2,1,Y,3,0,0,9,8,1,N
+165,Abu bakkar,60,M,Tilkhari,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,Y,N,15,Y,Y,Y,Y,Y,N,2,6,1,3,3,1,0,N,1,1,Y,2,0,0,8,7,1,Y
+166,Apurbo biswas,32,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,5,2,0,4,1,0,N,6,4,Y,4,0,0,9,8,1,N
+167,Mitu roy,35,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,6,6,1,5,3,2,0,N,2,1,Y,2,0,0,8,7,1,N
+168,Sumitra biswas,40,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,2,5,4,2,0,N,5,3,Y,3,0,0,9,8,1,N
+169,Dilip biswas,50,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,Y,Y,Y,Y,Y,Y,20,N,N,N,N,Y,N,4,7,2,5,6,2,0,N,3,2,Y,7,0,0,7,7,0,N
+170,Nipa,25,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,4,7,3,6,4,2,0,M,2,2,Y,5,0,0,8,7,1,N
+171,Asad molla,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,4,6,1,5,2,1,3,M,5,4,Y,3,0,0,8,7,1,N
+172,Jakir hossain,38,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,2,5,3,1,3,N,6,3,Y,3,0,0,8,7,1,N
+173,Jobbar,37,M,Tilkhari,Shalikha,Magura,Neck pain,NSAID,N,N,No.,N,N,Y,Y,Y,N,16,N,N,N,Y,Y,N,6,6,2,5,2,1,2,N,4,6,Y,5,0,0,8,7,1,N
+174,Jony,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,2,4,2,1,3,N,5,6,Y,4,0,0,8,8,0,N
+175,Israfil,27,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,4,7,1,6,3,1,4,N,5,3,Y,5,0,0,9,8,1,N
+176,Ariful haque,28,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,3,1,3,N,6,5,Y,6,0,0,7,7,0,N
+177,Sonu khan,25,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,Y,N,N,N,N,N,N,Y,N,3,7,2,6,4,1,0,N,2,1,Y,2,0,0,10,8,2,N
+178,Mamum hossain,40,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,6,7,2,5,5,2,3,N,3,2,Y,4,0,0,9,8,1,N
+179,Laltu,32,M,Tilkhari,Shalikha,Magura,Back pain,NSAID,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,2,5,2,1,2,N,5,6,Y,5,0,0,9,8,1,N
+180,Alo afrin,25,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,6,4,1,3,N,1,1,Y,2,0,0,8,8,0,N
+181,Bimal,39,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,4,7,1,5,2,1,0,M,4,5,Y,4,0,0,8,7,1,N
+182,Juel islam,32,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,6,2,1,4,M,6,5,Y,5,0,0,9,8,1,N
+183,Labib,21,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,0,M,0,0,Y,7,0,0,8,8,0,N
+184,Sifatullah biswas,65,M,Tilkhari,Shalikha,Magura,knee pain,NSAID,N,N,No.,N,N,N,N,N,Y,25,60,N,N,N,Y,N,2,7,1,5,7,0,0,L,0,0,Y,5,0,0,8,8,0,N
+185,Nayem biswas,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,1,5,7,0,0,M,7,3,Y,7,0,0,9,9,0,N
+186,Rakib biswas,27,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,1,5,7,0,2,H,3,1,Y,5,0,0,7,7,0,N
+187,Sabrina biswas,42,F,Singra,Shalikha,Magura,Waist pain,NSAID,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,7,4,2,M,7,2,Y,3,0,0,8,8,0,N
+188,Salma shikder,41,F,Singra,Shalikha,Magura,Migraine,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,6,2,5,3,1,0,L,5,3,Y,5,0,0,6,6,0,Y
+189,Dipu shikder,47,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,3,6,2,5,3,1,0,N,5,2,Y,5,0,0,8,8,0,N
+190,Tipu shikder,22,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,3,1,2,L,0,0,Y,7,0,0,7,7,0,N
+191,Shanto shikder,22,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,3,1,0,L,0,0,Y,7,0,0,9,8,1,N
+192,Ronjit biswas,68,M,Singra,Shalikha,Magura,Diabetes,N,Y,Insulin,L,N,N,N,N,N,Y,15,60,N,N,N,Y,N,4,7,2,5,0,2,0,N,0,0,Y,7,0,0,7,7,0,N
+193,Subodh shikder,49,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,5,0,2,0,M,7,3,Y,7,0,0,8,8,0,N
+194,Maloti biswas,45,F,Singra,Shalikha,Magura,Waist pain,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,5,0,2,0,H,7,2,N,0,0,0,8,8,0,N
+195,Isha shikder,23,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,4,7,2,5,0,2,2,M,0,0,Y,7,0,0,7,7,0,N
+196,Probir thakur,68,M,Singra,Shalikha,Magura,"CVD, Arthritis",Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,0,L,0,0,N,0,0,0,6,6,0,Y
+197,Mohi uddin,48,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,6,1,5,3,1,0,M,5,4,Y,5,0,0,8,7,1,N
+198,Uzzal khan,60,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,H,N,N,N,N,N,Y,19,55,Y,Y,Y,Y,N,3,7,1,5,2,1,0,L,1,1,Y,3,0,0,6,6,0,Y
+199,Nazmul molla,50,M,Tilkhari,Shalikha,Magura,Asthama,Homeopathy,N,N,No.,N,Y,Y,Y,Y,Y,18,N,N,N,N,Y,N,3,7,1,5,2,1,0,H,5,4,Y,5,0,0,8,7,1,Y
+200,Mohin uddin,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,6,2,1,2,H,6,5,Y,7,0,0,7,7,0,N
+201,Nurul alam,55,M,Tilkhari,Shalikha,Magura,Neck pain,NSAID,N,N,No.,N,N,N,Y,Y,Y,20,N,N,N,N,Y,N,2,6,1,5,2,1,0,N,1,1,Y,4,0,0,8,7,1,N
+202,Kobir hossain,45,M,Tilkhari,Shalikha,Magura,Diabetes,N,Y,Insulin,No.,Y,Y,Y,Y,Y,Y,15,N,N,N,Y,Y,N,6,7,2,5,1,0,0,H,6,4,Y,5,0,0,8,6,2,N
+203,Selina khatun,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,Y,Y,N,3,6,1,5,2,1,0,N,4,2,Y,3,0,0,9,8,1,N
+204,Ashim biswas,26,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,1,5,2,1,2,M,3,2,Y,3,0,0,8,8,0,N
+205,Krishno biswas,69,M,Tilkhari,Shalikha,Magura,"Kideney problem, CVD",Homeopathy,N,N,No.,N,N,N,N,N,Y,20,60,Y,Y,Y,Y,N,2,7,0,7,0,0,0,L,0,0,N,0,0,0,6,6,0,Y
+206,Rubi biswas,62,F,Tilkhari,Shalikha,Magura,Asthama,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,0,M,0,0,Y,2,0,0,7,7,0,Y
+207,Salam biswas,50,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,25,N,N,N,N,Y,N,2,7,0,7,0,0,0,L,7,3,Y,7,0,0,8,8,0,N
+208,Roksana biswas,42,F,Tilkhari,Shalikha,Magura,Back pain,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,0,M,7,4,N,0,0,0,9,9,0,N
+209,Onimesh biswas,27,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,2,M,3,1,Y,5,0,0,7,7,0,N
+210,Ovi biswas,23,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,1,M,4,1,Y,7,0,0,8,7,1,N
+211,Ashok kumar,42,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,3,7,3,5,2,3,0,L,7,2,Y,7,0,0,7,7,0,N
+212,Roshni biswas,39,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,5,2,3,0,M,7,4,Y,5,0,0,8,8,0,N
+213,Jadid biswas,24,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,3,5,2,2,1,M,0,0,Y,7,0,0,9,7,2,N
+214,Rajkumar biswas,70,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,L,N,N,N,N,N,Y,20,60,Y,Y,Y,Y,N,3,7,0,5,5,0,0,L,0,0,N,0,0,0,6,6,0,Y
+215,Avisek biswas,23,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,5,5,0,2,H,7,2,Y,7,0,0,8,8,0,N
+216,Rana biswas,50,M,Tilkhari,Shalikha,Magura,Back pain,NSAID,N,N,No.,N,N,N,Y,Y,N,20,N,N,N,N,Y,N,3,7,0,5,5,0,0,L,7,4,Y,5,0,0,7,7,0,N
+217,Ram biswas,65,M,Tilkhari,Shalikha,Magura,Waist pain,NSAID,N,N,No.,N,N,N,N,N,Y,20,40,Y,Y,Y,Y,N,2,7,0,5,7,0,0,N,0,0,Y,5,0,0,7,7,0,Y
+218,Vobotosh biswas,49,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,5,7,0,0,N,7,4,Y,7,0,0,8,8,0,N
+219,Lima biswas,42,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,5,7,0,0,M,7,3,N,0,0,0,9,8,1,N
+220,Pobitro biswas,23,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,0,5,7,0,3,M,0,0,Y,7,0,0,8,8,0,N
+221,Jahid shikder,24,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,3,7,2,5,0,0,4,N,7,2,Y,7,0,0,6,6,0,N
+222,Bejo biswas,48,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,2,5,0,0,1,M,0,0,Y,7,0,0,8,8,0,N
+223,Ruksana shikder,45,F,Tilkhari,Shalikha,Magura,Night fever,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,0,0,0,N,7,3,N,0,0,0,6,6,0,Y
+224,Mukul biswas,55,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",No.,Y,N,N,N,N,Y,19,50,N,N,N,Y,Y,5,7,1,5,2,1,0,L,7,3,Y,7,0,0,7,7,0,N
+225,Bornali biswas,45,F,Tilkhari,Shalikha,Magura,knee pain,NSAID,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,1,5,2,1,0,L,7,3,N,0,0,0,7,7,0,N
+226,Niloy biswas,24,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,5,7,1,5,2,1,2,H,7,3,Y,7,0,0,9,9,0,N
+227,Rojot roy,68,M,Tilkhari,Shalikha,Magura,"Asthama, Arthritis",N,N,N,L,N,N,N,N,N,Y,25,60,N,N,N,Y,N,2,7,0,7,0,0,0,L,0,0,N,0,0,0,4,4,0,Y
+228,Laboni roy,49,F,Tilkhari,Shalikha,Magura,Back pain,NSAID,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,0,M,7,4,N,0,0,0,8,8,0,N
+229,Mahmud roy,52,M,Singra,Shalikha,Magura,Asthama,Homeopathy,N,N,No.,N,N,N,N,Y,N,25,N,N,N,N,Y,N,3,6,1,5,0,0,0,L,7,5,Y,7,0,0,9,9,0,N
+230,Avijit biswas,27,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,Y,N,25,N,N,N,N,Y,N,2,7,0,7,0,0,2,M,0,0,Y,7,0,0,7,7,0,N
+231,Bivas shikder,44,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,Y,N,15,N,N,N,N,Y,N,2,7,0,5,0,2,0,N,7,4,Y,7,0,0,9,9,0,N
+232,Srijit biswas,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,2,M,0,0,Y,7,0,0,7,6,1,N
+233,Rehena biswas,39,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,5,0,2,0,M,7,4,N,0,0,0,7,7,0,N
+234,Kalpona sarkar,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,7,3,0,N,5,1,Y,3,0,0,8,8,0,N
+235,Sumon thakur,50,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,7,3,0,M,7,4,Y,5,0,0,7,7,0,N
+236,Harashit biswas,50,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,3,7,1,6,0,3,0,L,4,Y,Y,5,0,0,7,6,1,N
+237,Kobir shikder,68,M,Singra,Shalikha,Magura,Kidney problem,N,N,N,L,N,N,N,N,N,Y,20,60,Y,Y,Y,Y,N,2,7,0,5,0,3,0,M,0,4,Y,3,0,0,7,7,0,Y
+238,Sukumar biswas,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,0,5,0,3,0,M,7,3,Y,7,0,0,8,8,0,N
+239,Sudip biswas,27,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,0,5,0,3,1,M,5,1,Y,7,0,0,9,7,2,N
+240,Sonchita biswas,23,F,Singra,Shalikha,Magura,Migraine,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,5,0,3,0,H,2,1,Y,5,0,0,8,8,0,N
+241,Ratri biswas,40,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,5,0,3,0,M,7,3,Y,5,0,0,6,6,0,Y
+242,Choyon biswas,25,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,5,0,3,1,L,7,2,Y,7,0,0,7,7,0,N
+243,Kishor shikder,29,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,0,4,3,3,0,M,7,3,Y,7,0,0,6,6,0,N
+244,Romesh biswas,48,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,2,7,0,5,0,3,0,L,7,4,Y,7,0,0,8,8,0,N
+245,Shukla biswas,40,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,0,3,0,M,7,3,N,0,0,0,9,9,0,N
+246,Sondha biswas,65,F,Singra,Shalikha,Magura,Arthritis,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,1,6,2,3,0,H,0,0,N,0,0,0,7,7,0,Y
+247,Hamid biswas,49,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,5,5,0,0,M,7,4,Y,7,0,0,8,8,0,N
+248,Shukla biswas,42,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,5,0,0,L,7,3,N,0,0,0,7,7,0,N
+249,Sohagh biswas,23,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,3,6,2,5,5,0,2,M,7,2,Y,7,0,0,9,7,2,N
+250,Rubina biswas,22,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,5,0,0,H,0,0,Y,5,0,0,8,8,0,N
+251,Sahanaj roy,24,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,5,0,0,M,7,1,Y,5,0,0,7,7,0,N
+252,Kalipodo thakur,70,M,Singra,Shalikha,Magura,Arthritis,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,5,0,0,M,0,0,N,0,0,0,4,4,0,Y
+253,Shukdeb biswas,55,M,Singra,Shalikha,Magura,Back pain,NSAID,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,3,7,0,4,5,0,0,M,7,4,Y,7,0,0,8,8,0,N
+254,Chadni biswas,48,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,4,5,0,0,L,7,3,Y,7,0,0,7,7,0,N
+255,Robin biswas,27,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,0,4,5,0,0,M,7,1,Y,5,0,0,6,6,0,N
+256,Tahsan biswas,23,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,4,5,0,2,M,3,1,Y,7,0,0,7,7,0,N
+257,Opu biswas,24,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,0,4,5,0,2,L,3,1,Y,7,0,0,6,6,0,Y
+258,Boshonto biswas,24,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,0,2,M,7,1,Y,7,0,0,7,6,1,N
+259,Mohindir biswas,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,30,N,N,N,Y,N,3,7,1,7,0,0,0,M,7,4,Y,7,0,0,9,9,0,N
+260,Shefali biswas,42,F,Singra,Shalikha,Magura,Waist pain,NSAID,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,0,0,M,7,3,Y,5,0,0,8,8,0,N
+261,Rahul biswas,28,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,N,Y,N,20,N,N,N,N,Y,N,3,7,1,7,0,0,2,M,7,1,Y,7,0,0,9,9,0,N
+262,Sripoti roy,55,M,Dhawkhali,Shalikha,Magura,Chest pain,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,1,7,7,2,0,M,7,2,Y,7,0,0,6,6,0,N
+263,Anonna roy,29,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,4,7,1,7,7,2,0,N,0,0,Y,7,0,0,8,8,0,N
+264,Boni roy,24,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,7,2,0,H,7,1,Y,5,0,0,8,7,1,N
+265,Parvina roy,48,F,Dhawkhali,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,7,0,0,N,7,3,N,0,0,0,7,7,0,N
+266,Omol roy,30,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,1,7,7,5,2,M,0,0,Y,7,0,0,9,9,0,N
+267,Dinesh biswas,45,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,0,M,7,4,Y,7,0,0,8,8,0,N
+268,Tuli biswas,28,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,0,M,7,2,Y,3,0,0,7,7,0,N
+269,Madhobi biswas,40,F,Dhawkhali,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,0,H,7,4,Y,5,0,0,8,7,1,N
+270,Biddut biswas,42,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,0,M,7,5,Y,7,0,0,8,8,0,N
+271,Shilpi biswas,48,F,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,0,N,7,3,Y,5,0,0,7,7,0,N
+272,Rohim shikder,50,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,3,0,M,7,1,Y,3,0,0,6,6,0,Y
+273,Nilima biswas,25,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,3,0,M,7,2,Y,5,0,0,8,7,1,N
+274,Poshuboti biswas,70,M,Dhawkhali,Shalikha,Magura,"Kidney problem, CVD",N,N,N,L,N,N,N,N,N,Y,15,60,N,N,N,Y,N,2,7,0,7,0,3,0,M,0,0,N,0,0,0,10,10,0,N
+275,Tanmoy biswas,25,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,4,6,3,6,0,3,0,M,7,3,Y,5,0,0,8,8,0,N
+276,Bishnupodo biswas,55,M,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,4,6,3,6,0,3,0,N,7,1,N,0,0,0,7,7,0,N
+277,Aklima biswas,48,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,Y,4,6,3,6,0,3,0,M,7,3,N,0,0,0,9,8,1,N
+278,Joy bala,25,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,2,7,0,2,2,M,7,2,Y,7,0,0,7,7,0,N
+279,Niripen bala,50,M,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,2,7,0,2,0,L,7,1,N,0,0,0,6,6,0,Y
+280,Sima bala,29,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,Y,3,7,2,7,0,2,0,M,7,2,Y,4,0,0,6,6,0,N
+281,Hira bala,32,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,2,7,0,2,0,M,7,3,Y,5,0,0,7,7,0,N
+282,Indrojit ghosh,70,M,Dhawkhali,Shalikha,Magura,Kidney problem,N,N,N,L,N,N,N,N,N,Y,20,60,N,N,N,Y,N,2,7,1,6,0,3,0,M,0,0,N,0,0,0,6,6,0,Y
+283,Indrojit biswas,42,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,6,0,3,1,M,7,2,Y,7,0,0,9,8,1,N
+284,Monirul biswas,32,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,0,3,0,0,N,7,2,Y,7,0,0,7,7,0,N
+285,Bablu biswas,27,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,0,3,2,0,N,0,0,Y,7,0,0,8,8,0,N
+286,Bidhan biswas,50,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,N,Y,N,N,N,N,N,N,N,Y,N,3,6,2,5,3,2,0,N,7,2,Y,7,0,0,6,6,0,N
+287,Rojoni biswas,45,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,6,3,5,3,2,0,M,7,3,Y,5,0,0,7,7,0,N
+288,Pronoy biswas,28,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,3,5,3,3,2,N,0,0,Y,7,0,0,7,7,0,N
+289,Subir biswas,68,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,50,N,N,N,Y,N,2,7,1,7,0,4,0,N,0,0,N,0,0,0,5,5,0,Y
+290,Radha biswas,65,F,Dhawkhali,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,4,0,M,0,0,N,0,0,0,6,6,0,Y
+291,Gopal biswas,50,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,4,0,N,7,4,Y,7,0,0,8,8,0,N
+292,Sabrina biswas,45,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,4,0,M,7,3,Y,5,0,0,6,6,0,Y
+293,Kobir biswas,24,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,4,1,M,7,2,Y,7,0,0,7,7,0,N
+294,Rahul biswas,38,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,4,2,M,7,1,Y,7,0,0,7,7,0,N
+295,Sobuj roy,45,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,7,2,5,0,3,0,N,7,3,Y,7,0,0,8,8,0,N
+296,Moumita biswas,39,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,0,2,0,M,7,3,Y,3,0,0,7,7,0,N
+297,Topu biswas,22,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,0,2,2,N,7,1,Y,5,0,0,8,7,1,N
+298,Roghu biswas,70,M,Dhawkhali,Shalikha,Magura,Insomnia ,Sedative,N,N,L,N,N,N,N,N,Y,15,60,Y,Y,Y,Y,N,3,7,2,5,0,2,0,L,0,0,N,0,0,0,3,3,0,Y
+299,Rahul biswas,32,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,N,N,Y,N,N,N,N,N,N,Y,Y,3,7,2,5,0,3,0,N,5,1,Y,7,0,0,6,6,0,N
+300,Hena biswas,29,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,0,3,0,H,7,2,Y,3,0,0,8,8,0,N
+301,Rajon shikder,65,M,Dhawkhali,Shalikha,Magura,Arthritis,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,5,4,0,M,0,0,N,0,0,0,9,9,0,N
+302,Togor shikder,45,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,5,4,0,N,7,3,Y,7,0,0,7,7,0,N
+303,Rojoni shikder,40,F,Dhawkhali,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,5,4,0,M,7,3,N,0,0,0,8,8,0,N
+304,Rubina shikder,26,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,1,5,5,4,0,L,7,1,Y,5,0,0,7,7,0,N
+305,Payle shikder,21,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,6,1,5,5,4,0,H,7,1,Y,5,0,0,8,8,0,N
+306,Omoren biswas,50,M,Dhawkhali,Shalikha,Magura,Vision,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,5,3,4,0,M,0,0,N,0,0,0,7,7,0,N
+307,Niharika biswas,21,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,0,M,0,0,Y,7,0,0,8,8,0,N
+308,Robin biswas,65,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,2,0,M,7,1,Y,7,0,0,8,8,0,N
+309,Biku biswas,40,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,2,0,L,7,3,Y,5,0,0,7,7,0,N
+310,Farha biswas,35,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,2,0,H,7,4,Y,6,0,0,9,9,0,N
+311,Ronjit biswas,29,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,2,M,4,1,Y,7,0,0,6,6,0,Y
+312,Shamim biswas,25,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,2,0,M,7,1,Y,5,0,0,9,9,0,N
+313,Ivy  khatun,31,F,Shablat,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,2,0,N,7,4,Y,2,0,0,6,6,0,N
+314,Suborna biswas,48,F,Singra,Shalikha,Magura,Migraine,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,0,0,M,7,4,Y,3,0,0,7,6,1,Y
+315,Bissojit biswas,70,M,Singra,Shalikha,Magura,"CVD, Asthama",N,N,N,L,Y,N,N,N,N,Y,20,60,Y,Y,Y,Y,N,1,7,1,7,0,0,0,N,0,0,N,0,0,0,5,5,0,Y
+316,Obonti shikder ,48,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,5,2,3,0,N,7,4,Y,5,0,0,7,7,0,N
+317,Nipa biswas,48,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,2,5,0,3,0,N,7,1,N,0,0,0,9,9,0,N
+318,Shemul biswas,55,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,30,N,N,N,Y,N,1,6,1,3,0,3,0,M,7,2,Y,7,0,0,8,8,0,N
+319,Shejuti biswas,48,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,6,1,3,0,3,0,M,7,3,Y,3,0,0,9,7,2,N
+320,Apon biswas,28,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,Y,N,20,N,N,N,N,Y,N,1,6,1,3,0,3,2,M,2,1,Y,5,0,0,7,7,0,N
+321,Ojit biswas,22,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,3,0,3,1,M,3,1,Y,7,0,0,8,8,0,N
+322,Kobir biswas,43,M,Dhawkhali,Shalikha,Magura,Insomnia ,Sedative,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,1,7,1,3,5,3,0,M,7,2,Y,5,0,0,4,4,0,Y
+323,Nilima biswas,39,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,1,3,5,3,0,N,7,3,N,0,0,0,8,8,0,N
+324,Uzzol biswas,24,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,1,3,5,3,2,H,3,1,Y,5,0,0,7,7,0,N
+325,Romen biswas,55,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,2,7,1,3,5,3,0,M,0,0,N,0,0,0,9,9,0,N
+326,Sathi biswas,51,F,Dhawkhali,Shalikha,Magura,Arthritis,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,3,5,3,0,M,0,0,N,0,0,0,9,7,2,N
+327,Shukur biswas,38,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,0,3,1,M,2,5,Y,6,0,0,8,8,0,N
+328,Lolita biswas,32,F,Dhawkhali,Shalikha,Magura,Migraine,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,2,5,0,3,0,M,7,3,Y,5,0,0,7,7,0,N
+329,Tarapodo biswas,55,M,Dhawkhali,Shalikha,Magura,Allergy,Homeopathy,N,N,No.,N,N,N,N,N,Y,15,40,N,N,N,Y,N,2,7,2,5,0,3,0,N,0,0,N,0,0,0,8,8,0,N
+330,Narayon biswas,68,M,Dhawkhali,Shalikha,Magura,Vision,N,N,N,No.,N,N,N,N,N,Y,20,50,Y,Y,Y,Y,N,1,7,1,5,0,2,0,N,0,0,N,0,0,0,5,5,0,Y
+331,Deb biswas,47,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,5,0,2,0,M,7,3,Y,7,0,0,9,9,0,N
+332,Sorna biswas,40,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,Y,N,N,N,N,N,N,N,Y,N,1,5,1,5,0,2,0,M,7,3,N,0,0,0,8,8,0,N
+333,Robi biswas,26,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,N,1,5,1,5,0,2,1,M,7,1,Y,7,0,0,7,7,0,N
+334,Rehana biswas,22,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,0,7,3,4,0,H,7,3,Y,7,0,0,6,6,0,Y
+335,Pabon kumar,65,M,Dhawkhali,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,N,Y,15,50,N,N,N,Y,N,2,7,1,4,7,3,0,M,0,0,N,0,0,0,9,9,0,N
+336,Shukla biswas,62,F,Dhawkhali,Shalikha,Magura,Dementia,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,4,7,3,0,N,0,0,N,0,0,0,8,6,2,Y
+337,Sudip biswas,43,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,4,7,3,0,M,7,2,Y,7,0,0,8,8,0,N
+338,Dipto biswas,24,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,N,N,N,N,N,N,N,N,Y,N,1,7,1,4,7,3,2,H,2,1,Y,7,0,0,6,6,0,Y
+339,Bristy biswas,21,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,1,7,1,4,7,3,0,M,7,1,Y,5,0,0,7,7,0,N
+340,Prodip biswas,65,M,Dhawkhali,Shalikha,Magura,Insomnia ,Sedative,N,N,No.,N,N,N,N,N,Y,15,60,N,N,N,Y,N,2,5,2,5,0,2,0,M,0,0,N,0,0,0,4,4,0,Y
+341,Rupali biswas,60,F,Dhawkhali,Shalikha,Magura,Kidney problem,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,5,0,2,0,M,0,0,N,0,0,0,7,7,0,Y
+342,Pronoy biswas,46,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,5,2,5,0,2,0,M,7,2,Y,7,0,0,7,7,0,N
+343,Shishir biswas,40,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,5,0,2,0,N,7,3,Y,7,0,0,7,7,0,N
+344,Nupur biswas,23,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,5,0,2,1,M,3,1,Y,5,0,0,8,7,1,N
+345,Sohagh biswas,21,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,5,0,2,0,M,7,1,Y,5,0,0,9,9,0,N
+346,Rokib biswas,65,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,6,7,4,0,N,7,1,Y,7,0,0,8,8,0,N
+347,Sadhon shikder,48,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,6,7,4,0,M,7,2,Y,7,0,0,8,7,1,N
+348,Sumi shikder,42,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,6,7,4,0,M,7,3,Y,5,0,0,9,8,1,N
+349,Raju,29,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,6,7,4,2,N,7,3,Y,7,0,0,8,8,0,N
+350,Akhi shikder,24,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,6,2,6,7,4,0,N,7,1,Y,3,0,0,7,7,0,N
+351,Rabbi shikder,22,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,6,7,4,0,M,7,1,N,0,0,0,8,8,0,N
+352,Prity roy ,26,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,4,7,3,7,3,1,0,M,7,3,Y,7,0,0,6,6,0,N
+353,Sjuon roy,35,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,Y,N,25,N,N,N,N,Y,N,4,7,3,7,3,1,2,N,7,1,Y,4,0,0,6,6,0,N
+354,Diponkor biswas,25,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,1,7,1,5,0,4,0,N,0,0,Y,2,0,0,6,6,0,N
+355,Doshoroth biswas,55,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,5,0,4,0,L,7,3,Y,7,0,0,7,7,0,N
+356,Ruma biswas,22,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,1,7,1,5,0,4,0,M,7,1,N,0,0,0,8,7,1,N
+357,Madhuri biswas,45,F,Singra,Shalikha,Magura,knee pain,Homeopathy,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,5,0,4,0,L,0,0,N,0,0,0,10,8,2,N
+358,Imam hasan,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,1,7,1,7,0,0,2,H,7,3,Y,4,0,0,8,7,1,N
+359,Mannan,65,M,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,7,7,1,0,N,0,0,N,0,0,0,8,7,1,N
+360,Anowar hossain,35,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,25,N,N,N,N,Y,N,1,7,1,7,0,0,2,M,7,3,Y,7,0,0,7,7,0,N
+361,Mahamud hasan,28,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,3,7,3,7,7,1,0,L,0,0,Y,3,0,0,7,6,1,N
+362,Obydur mulla,50,M,Singra,Shalikha,Magura,Asthama,N,N,N,No.,Y,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,7,0,1,0,L,3,1,N,0,0,0,7,7,0,Y
+363,Kulsum khatun,48,F,Singra,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",L,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,1,0,N,7,3,Y,7,0,0,6,6,0,N
+364,Sheli shikder,26,F,Singra,Shalikha,Magura,Migraine,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,5,0,3,0,H,7,1,Y,2,0,0,7,7,0,N
+365,Boishakhi biswas,25,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,4,0,2,0,L,0,0,N,0,0,0,8,7,1,N
+366,Rani biswas,40,F,Singra,Shalikha,Magura,Back pain,NSAID,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,4,0,2,0,N,7,4,N,0,0,0,6,6,0,Y
+367,Amrita biswas,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,1,4,0,2,2,M,7,1,Y,7,0,0,7,7,0,N
+368,Nokul biswas,55,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,2,7,1,4,0,2,0,H,7,5,Y,7,0,0,6,6,0,N
+369,Salma biswas,70,F,Singra,Shalikha,Magura,"CVD, Diabetes",Cardioascular drugs,Y,Insulin,L,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,2,7,2,5,2,3,0,L,0,0,N,0,0,0,5,5,0,Y
+370,Omol biswas,60,M,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,4,3,2,0,M,7,2,Y,3,0,0,8,8,0,N
+371,Suborna biswas,50,F,Singra,Shalikha,Magura,Allergy,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,4,3,2,0,L,7,3,N,0,0,0,7,7,0,N
+372,Tara biswas,72,M,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,3,2,0,N,0,0,N,0,0,0,4,4,0,Y
+373,Sukanot biswas,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,4,3,2,4,M,7,3,Y,7,0,0,7,7,0,N
+374,Polash biswas,30,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,4,3,2,5,H,0,0,N,0,0,0,7,7,0,N
+375,Liton kumar,45,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,30,N,N,N,N,Y,N,2,7,2,5,2,3,2,L,7,4,Y,7,0,0,6,6,0,N
+376,Aroti biswas,38,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,Y,2,7,2,5,2,3,0,M,7,4,Y,3,0,0,7,6,1,N
+377,Chitto biswas,70,M,Singra,Shalikha,Magura,Dementia,N,N,N,L,N,N,N,N,N,Y,20,60,N,N,N,Y,N,2,5,2,3,0,1,0,L,0,0,N,0,0,0,7,7,0,Y
+378,Pritha biswas,30,F,Singra,Shalikha,Magura,Migraine,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,2,5,2,3,0,1,0,M,7,1,Y,3,0,0,7,6,1,N
+379,Hasan ali,30,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,1,7,0,2,0,M,7,1,Y,7,0,0,8,7,1,N
+380,Anjura khatun,45,F,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,2,0,M,7,4,Y,2,0,0,6,6,0,Y
+381,Nazrul islam,40,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,1,0,L,7,2,N,0,0,0,6,6,0,N
+382,Alamgir Hossain,45,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,Y,4,7,3,7,0,2,0,H,7,1,Y,0,0,0,7,7,0,N
+383,Hashem ali,65,M,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,2,2,0,L,0,0,N,0,0,0,8,7,1,N
+384,Anisur rahman,30,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,1,7,1,7,2,2,1,M,0,0,N,0,0,0,7,6,1,N
+385,Kalam molla,60,M,Singra,Shalikha,Magura,Asthama,Anti-histamine,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,2,7,1,7,0,1,0,H,7,4,N,0,0,0,8,8,0,N
+386,Shirina khatun,35,F,Singra,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,2,0,L,7,3,N,0,0,0,7,7,0,N
+387,Ashraful,35,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,30,N,N,N,Y,N,1,7,1,7,0,1,0,M,7,2,N,0,0,0,7,7,0,N
+388,Shimul shikder,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,Y,N,18,N,N,N,N,Y,N,2,7,3,5,2,3,3,M,0,0,N,0,0,0,7,6,1,N
+389,Biram shikder,55,M,Singra,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",No.,N,N,N,N,N,Y,25,50,N,N,N,Y,N,2,7,3,5,2,3,0,N,7,2,Y,7,0,0,6,6,0,N
+390,Bikash biswas,53,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,7,0,0,0,M,7,3,Y,7,0,0,7,7,0,N
+391,Nilima biswas,48,F,Singra,Shalikha,Magura,knee pain,NSAID,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,5,2,3,0,1,0,H,7,3,Y,7,0,0,9,9,0,N
+392,Sopon biswas,56,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,3,0,1,0,H,7,2,Y,5,0,0,8,8,0,N
+393,Bibek biswas,60,M,Singra,Shalikha,Magura,Arthritis,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,3,0,2,0,L,7,1,Y,3,0,0,7,7,0,N
+394,Laboni biswas,45,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,Y,N,N,N,N,N,N,N,Y,N,1,6,2,3,3,2,0,M,7,4,Y,5,0,0,7,7,0,N
+395,Bristy biswas,27,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,1,6,2,3,3,3,0,M,7,1,Y,4,0,0,7,6,1,N
+396,Mishu biswas,30,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,Y,2,5,2,3,0,2,0,M,0,0,Y,5,0,0,6,6,0,N
+397,Mili biswas,50,F,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,5,2,3,0,2,0,N,7,3,Y,5,0,0,7,7,0,N
+398,Bissojit biswas,50,M,Singra,Shalikha,Magura,Allergy,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,6,2,3,3,2,0,L,7,3,Y,4,0,0,6,6,0,N
+399,Debasish biswas,28,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,2,7,2,5,3,2,2,M,7,1,Y,7,0,0,7,7,0,N
+400,Sujon biswas,25,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,Y,N,22,N,N,N,N,Y,N,2,7,1,4,2,2,3,M,0,0,Y,5,0,0,6,6,0,N
+401,Asim,26,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,2,0,L,0,0,Y,7,0,0,8,8,0,N
+402,Anju biswas,25,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,2,0,H,7,4,N,0,0,0,8,8,0,N
+403,Beloka sarkar,35,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,1,N,7,4,N,0,0,0,8,8,0,N
+404,Satyarani sarkar,65,F,Tilkhari,Shalikha,Magura,Vision,N,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,3,7,1,7,0,2,1,N,7,2,N,0,0,0,8,8,0,N
+405,Kalipodo sarkar,75,M,Tilkhari,Shalikha,Magura,Neck pain,NSAID,N,N,No.,N,N,N,N,Y,N,10,N,N,N,Y,N,N,3,7,1,7,0,2,1,M,0,0,N,0,0,0,9,8,1,N
+406,Sumon sarkar,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,Y,3,7,1,7,0,2,1,L,2,1,Y,7,0,0,8,8,0,N
+407,Samsuzzoha,70,M,Singra,Shalikha,Magura,Paralysis,N,N,N,No.,N,N,N,N,N,Y,15,60,N,N,N,Y,N,3,7,3,7,0,1,0,N,0,0,N,0,0,0,7,7,0,Y
+408,Sajjad mia,60,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,5,0,0,0,L,0,0,N,0,0,0,8,6,2,N
+409,Afroz ,32,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,0,0,2,M,7,5,Y,7,0,0,6,6,0,N
+410,Selina akhter,28,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,2,5,2,2,0,N,7,2,N,0,0,0,7,7,0,N
+411,Jakir hossain,45,M,Singra,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,7,0,1,2,M,0,0,N,0,0,0,5,5,0,Y
+412,Baizid ,42,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,3,7,0,1,0,M,0,0,N,0,0,0,7,7,0,N
+413,Dalim khatun,35,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,3,7,2,1,0,N,7,3,N,0,0,0,7,7,0,N
+414,Marufa shikder,55,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,5,7,1,0,M,7,3,N,0,0,0,8,8,0,N
+415,Shofik shikder,60,M,Singra,Shalikha,Magura,Allergy,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,5,0,0,M,0,0,Y,3,0,0,8,8,0,N
+416,Pakhi shikder,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,5,1,0,L,7,2,N,0,0,0,7,6,1,Y
+417,Helal,22,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,5,1,3,H,0,0,Y,7,0,0,7,7,0,N
+418,Khairul,37,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,5,1,3,L,0,0,N,0,0,0,6,6,0,N
+419,Maria sarkar,30,F,Singra,Shalikha,Magura,Migraine,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,0,6,5,5,0,H,7,3,N,0,0,0,9,9,0,N
+420,Monirul sarkar,35,F,Singra,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,5,5,0,H,0,0,N,0,0,0,7,7,0,N
+421,Sabina sarkar,32,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,1,0,M,7,4,N,0,0,0,7,7,0,N
+422,Hafiz sharkar,38,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,0,7,2,2,1,L,0,0,Y,7,0,0,8,8,0,N
+423,Salma ,30,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,0,2,0,N,7,3,N,0,0,0,6,6,0,Y
+424,Monumia ,25,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,1,1,N,7,5,Y,7,0,0,8,8,0,N
+425,Faisal,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,1,7,1,7,0,1,0,N,7,5,Y,7,0,0,6,6,0,N
+426,Najma,40,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,0,1,0,M,7,3,N,0,0,0,8,8,0,N
+427,Khokon shikder,45,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,2,7,0,7,0,1,0,M,7,6,Y,7,0,0,7,7,0,N
+428,Robiul hossain,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,2,3,0,L,7,5,N,0,0,0,8,8,0,N
+429,Reshma khatun,45,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,2,3,0,M,7,5,Y,0,0,0,9,9,0,N
+430,Rejaul islam,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,1,0,L,7,4,Y,7,0,0,8,7,1,N
+431,Sriporti biswas,55,M,Dhawkhali,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,Y,N,12,N,N,N,N,Y,N,4,7,0,7,0,2,0,H,7,3,Y,7,0,0,7,7,0,Y
+432,Sayeed mia,48,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,7,2,7,0,5,1,M,7,3,Y,3,0,0,7,7,0,N
+433,Rifat mia,21,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,2,3,2,M,0,0,N,0,0,0,9,9,0,N
+434,Alauddin khan,52,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,2,0,H,5,2,Y,7,0,0,6,6,0,Y
+435,Monjila biswas,50,M,Dhawkhali,Shalikha,Magura,Vision,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,2,0,M,7,4,N,0,0,0,9,9,0,N
+436,Rabeya ,29,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,7,7,2,7,7,0,0,M,0,0,N,0,0,0,6,6,0,Y
+437,Aklima khatun,44,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,3,7,2,0,0,N,7,2,N,0,0,0,8,8,0,N
+438,Idris mia,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,3,7,2,0,0,L,7,2,N,0,0,0,8,8,0,N
+439,Silpina khatun,45,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,7,7,0,0,M,7,3,N,0,0,0,8,8,0,N
+440,Bablu roy ,23,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,1,7,1,6,7,3,2,M,0,0,N,0,0,0,8,7,1,N
+441,Madhuri roy,45,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,6,7,3,0,M,7,2,N,0,0,0,6,6,0,N
+442,Prosanto roy,50,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,6,7,3,0,M,7,3,N,0,0,0,6,6,0,N
+443,Mira roy,40,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,6,7,3,0,L,7,2,N,0,0,0,7,7,0,N
+444,Aroti roy,25,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,1,7,1,6,7,3,0,H,7,1,Y,5,0,0,8,6,2,N
+445,Bivas shil,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,0,N,N,N,Y,N,1,7,0,7,0,4,2,L,6,5,Y,7,0,0,6,6,0,N
+446,Opu shil,27,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,0,7,0,4,2,M,6,5,Y,7,0,0,8,8,0,N
+447,Nikhil roy,55,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,2,7,1,7,7,1,0,L,0,0,N,0,0,0,5,5,0,Y
+448,Nilima roy,50,F,Tilkhari,Shalikha,Magura,Insomnia ,Sedative,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,7,1,0,M,7,3,N,0,0,0,4,4,0,Y
+449,Probaht roy,25,M,Tilkhari,Shalikha,Magura,Allergy,Homeopathy,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,Y,2,7,1,7,7,1,2,L,0,0,N,0,0,0,8,6,2,N
+450,Polash roy,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,7,1,0,M,7,3,Y,5,0,0,7,7,0,N
+451,Komol roy,55,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,0,L,0,0,N,0,0,0,7,7,0,N
+452,Nila roy,50,F,Tilkhari,Shalikha,Magura,Arthritis,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,2,0,M,7,2,N,0,0,0,8,7,1,N
+453,Topu shil,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,N,N,N,N,N,Y,N,1,7,0,4,4,2,0,H,6,5,Y,7,0,0,7,7,0,N
+454,Salma ,46,F,Singra,Shalikha,Magura,Epilepsy,Anti-epileptic,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,6,0,0,0,N,7,2,N,0,0,0,5,5,0,Y
+455,Putul khatun,38,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,3,0,M,7,3,N,0,0,0,7,7,0,N
+456,Khalekh mia,52,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,0,0,0,M,5,2,Y,3,0,0,8,8,0,N
+457,Nahar begum,42,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,6,0,1,0,M,7,3,N,0,0,0,6,6,0,Y
+458,Mukid khan,40,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,2,7,1,7,0,1,0,M,0,0,N,0,0,0,6,6,0,Y
+459,Sumona khatun,45,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,0,0,L,7,3,N,0,0,0,8,8,0,N
+460,Alamin mia,23,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,0,2,H,4,3,Y,5,0,0,9,9,0,N
+461,Farukh khan,39,M,Singra,Shalikha,Magura,Allergy,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,6,0,0,0,L,5,5,Y,5,0,0,6,6,0,N
+462,Sabina khatunh,32,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,0,0,N,7,3,N,0,0,0,7,7,0,N
+463,Asha khatun,40,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,2,5,0,2,0,L,7,3,N,0,0,0,7,7,0,N
+464,Halima mia,48,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,2,5,0,2,0,N,7,1,N,0,0,0,6,6,0,N
+465,Momerez,50,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,0,7,0,0,0,L,7,4,Y,7,0,0,7,7,0,N
+466,Sokina khatun,45,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,0,7,0,0,0,M,7,3,N,0,0,0,6,6,0,N
+467,Rokeya khatun,60,F,Singra,Shalikha,Magura,Arthritis,N,N,N,L,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,2,7,2,5,0,2,0,L,0,0,N,0,0,0,5,5,0,Y
+468,Mohor molla,55,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,2,7,1,7,0,2,0,M,0,0,Y,5,0,0,7,7,0,N
+469,Rojina khatun,50,F,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,2,0,M,7,3,N,0,0,0,7,7,0,N
+470,Rofi mia,38,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,2,1,1,L,7,1,Y,5,0,0,7,7,0,N
+471,Mohua khatun,35,F,Singra,Shalikha,Magura,Migraine,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,1,7,2,5,2,1,0,N,7,3,N,0,0,0,6,6,0,N
+472,Humayun kbir,30,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,N,N,N,N,N,Y,N,1,5,2,4,2,2,2,L,0,0,N,0,0,0,8,8,0,N
+473,Mubin khan,45,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,1,7,1,7,0,1,1,M,0,0,N,0,0,0,7,7,0,N
+474,Adhir biswas,65,M,Singra,Shalikha,Magura,Arthritis,Homeopathy,N,N,No.,N,N,N,N,Y,N,14,N,N,N,N,Y,N,2,7,0,7,7,0,0,M,0,0,Y,7,0,0,8,8,0,N
+475,Liton biswas,35,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,0,M,7,5,Y,7,0,0,7,7,0,N
+476,Rowshona biswas,57,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,0,L,7,3,N,0,0,0,9,8,1,N
+477,Shamim biswas,41,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,0,M,7,4,Y,7,0,0,7,7,0,N
+478,Samia biswas,36,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,0,L,7,3,N,0,0,0,8,8,0,N
+479,Ishita khatun,26,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,N,3,6,1,6,5,1,0,M,0,0,Y,5,0,0,8,8,0,N
+480,Wajid molla,48,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,6,1,6,3,1,0,M,7,3,Y,7,0,0,7,7,0,N
+481,Habiba khatun,40,F,Tilkhari,Shalikha,Magura,knee pain,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,1,6,3,1,0,L,7,4,N,0,0,0,9,9,0,N
+482,Sadhon biswas,25,M,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,2,H,0,0,Y,3,0,0,9,8,1,N
+483,Abid biswas,48,M,Dhawkhali,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",No.,N,N,N,N,N,Y,20,40,N,N,N,Y,N,2,7,0,7,0,2,0,L,7,4,Y,5,0,0,7,7,0,N
+484,Sharmin biswas,43,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,0,M,7,3,N,0,0,0,8,8,0,N
+485,Meherun biswas,21,F,Dhawkhali,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,2,1,L,0,0,Y,5,0,0,9,7,2,N
+486,Jubayer hossain,21,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,7,0,7,5,0,0,M,7,5,Y,7,0,0,6,6,0,N
+487,Repon hossain,44,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,5,0,0,L,7,4,Y,7,0,0,7,7,0,N
+488,Monika khatun,40,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,5,0,0,L,7,4,N,0,0,0,7,7,0,Y
+489,Moinuddin ,65,M,Tilkhari,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,Y,N,15,N,N,N,N,Y,N,3,7,0,7,5,0,0,N,0,0,N,0,0,0,6,6,0,Y
+490,Ayon das,24,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,1,5,0,2,2,M,0,0,Y,7,0,0,8,7,1,N
+491,Hasan biswas,51,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,0,2,0,M,7,2,Y,5,0,0,7,6,1,N
+492,Ruba biswas,47,F,Singra,Shalikha,Magura,Diabetes,Anti-diabetic,Y,"Medication, exercise",No.,N,N,Y,Y,N,N,N,N,N,N,N,Y,N,2,7,1,5,0,2,0,L,7,3,Y,7,0,0,6,6,0,Y
+493,Monikanto biswas,70,M,Singra,Shalikha,Magura,"Dementia, Insomnia",Sedative,N,N,L,N,N,N,N,N,Y,12,65,Y,Y,Y,Y,N,2,7,1,5,0,2,0,L,0,0,N,0,0,0,4,4,0,Y
+494,Azad,48,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,0,M,5,2,Y,3,0,0,8,7,1,N
+495,Limon mia,22,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,2,H,7,5,Y,7,0,0,7,7,0,N
+496,Toma khatun,42,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,0,L,7,3,N,0,0,0,9,7,2,N
+497,Fatema khatun,39,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,1,5,5,0,0,M,7,3,N,0,0,0,8,8,0,N
+498,Masum khan,43,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,25,N,N,N,N,Y,N,4,6,1,5,5,0,0,L,7,1,N,0,0,0,7,7,0,N
+499,Shihab mia,22,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,1,5,5,0,0,M,0,0,Y,5,0,0,9,9,0,N
+500,Sadia sultana,23,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,4,6,1,5,5,0,0,H,0,0,Y,5,0,0,8,7,1,N
+501,Maria khatun,51,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,7,0,0,M,7,3,N,0,0,0,8,7,1,N
+502,Rashed mia,55,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,7,0,0,L,7,2,Y,7,0,0,7,7,0,N
+503,Ela khatun,23,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,7,0,0,H,7,2,Y,5,0,0,8,8,0,N
+504,Rumman mia,24,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,3,7,0,7,7,0,0,M,0,0,Y,7,0,0,7,7,0,N
+505,Sraboni khatun,24,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,6,1,6,5,0,0,M,0,0,N,0,0,0,8,8,0,N
+506,Liza khatun,46,F,Tilkhari,Shalikha,Magura,knee pain,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,1,6,5,0,0,L,7,3,N,0,0,0,8,8,0,N
+507,Amir hamza,48,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,15,30,N,N,N,Y,N,3,6,1,6,5,0,0,M,7,2,Y,5,0,0,7,7,0,N
+508,Tusher mia,26,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,N,N,Y,N,20,N,N,N,N,Y,N,3,6,1,6,5,0,0,M,0,0,Y,5,0,0,8,8,0,N
+509,Mahmud mia,67,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,L,N,N,N,N,N,Y,12,60,Y,Y,Y,Y,N,3,6,1,6,5,0,0,N,0,0,N,0,0,0,6,6,0,Y
+510,Dipa biswas,49,F,Singra,Shalikha,Magura,N,N,N,N,No.,Y,N,N,Y,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,0,0,M,7,3,Y,5,0,0,7,7,0,N
+511,Nadia biswas,21,F,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,0,0,M,0,0,Y,5,0,0,9,9,0,N
+512,Pia biswas,61,F,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,0,0,L,0,0,N,0,0,0,6,6,0,Y
+513,Rakibul biswas,51,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,0,0,M,0,0,Y,7,0,0,8,8,0,N
+514,Tanjil ghosh,33,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,0,7,0,0,2,M,7,3,Y,7,0,0,8,8,0,N
+515,Iqbal ,34,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,4,7,0,7,3,0,0,L,7,3,Y,7,0,0,9,9,0,N
+516,Bayezid,29,M,Tilkhari,Shalikha,Magura,Allergy,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,4,0,0,H,7,2,Y,7,0,0,8,8,0,N
+517,Tania khatun,45,F,Tilkhari,Shalikha,Magura,Dementia,CNS drug,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,1,7,4,0,0,M,0,0,N,0,0,0,5,5,0,Y
+518,Tabassum khatun,25,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,4,0,0,L,0,0,Y,3,0,0,8,7,1,N
+519,Mahfuj hasan,43,M,Tilkhari,Shalikha,Magura,Back pain,Pain killer,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,5,1,0,M,7,4,Y,7,0,0,8,8,0,N
+520,Hasib biswas,31,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,5,1,0,M,3,1,Y,7,0,0,9,8,1,N
+521,Taher mia,55,M,Tilkhari,Shalikha,Magura,muscle spasm,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,2,7,1,7,7,0,0,M,7,2,Y,5,0,0,6,6,0,Y
+522,Sanjida khatun,47,F,Tilkhari,Shalikha,Magura,knee pain,NSAID,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,7,0,0,M,7,3,N,0,0,0,8,8,0,N
+523,Rokon mia,72,M,Tilkhari,Shalikha,Magura,Diabetes,N,Y,Insulin,H,N,N,N,N,N,Y,12,60,Y,Y,N,Y,N,2,7,1,7,7,0,0,N,0,0,N,0,0,0,5,5,0,Y
+524,Joynal mia,29,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,7,0,0,L,2,1,Y,5,0,0,8,8,0,N
+525,Silvi ,25,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,6,1,6,5,0,0,M,2,1,Y,5,0,0,8,8,0,N
+526,Shibli,21,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,1,6,5,0,0,L,0,0,N,0,0,0,9,9,0,N
+527,Maruf mia,66,M,Tilkhari,Shalikha,Magura,Asthama,N,N,N,No.,N,N,N,N,Y,N,12,N,N,N,N,Y,N,3,7,0,7,7,0,0,M,0,0,N,0,0,0,6,6,0,Y
+528,Tuhin shikder,43,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,7,0,7,7,0,0,M,5,1,Y,3,0,0,8,7,1,N
+529,Anik shikder,22,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,L,0,0,Y,5,0,0,8,8,0,N
+530,Imran shikder,24,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,L,0,0,Y,7,0,0,7,7,0,N
+531,Urmi begum,30,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,6,5,1,0,M,5,1,Y,4,0,0,8,6,2,N
+532,Zia molla,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,2,1,1,M,4,2,Y,7,0,0,6,6,0,Y
+533,Imran  ,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,6,7,2,1,M,4,2,Y,4,0,0,7,7,0,N
+534,Ria begum,30,F,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,5,2,2,1,N,2,1,N,0,0,0,8,6,2,N
+535,Bakiar rahman,40,M,Tilkhari,Shalikha,Magura,knee pain,Pain killer,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,2,5,0,0,2,M,2,2,Y,4,0,0,8,7,1,N
+536,Ashraful mia,20,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,7,7,2,7,2,5,0,L,6,2,Y,4,0,0,9,7,2,N
+537,Habib biswas,30,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,7,7,2,7,2,5,0,M,2,2,Y,7,0,0,7,7,0,N
+538,Hasina begum,40,F,Tilkhari,Shalikha,Magura,Asthama,Corticosteroid ,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,2,5,3,2,0,N,2,1,Y,2,0,0,8,6,2,N
+539,Jahid hasan,22,M,Tilkhari,Shalikha,Magura,Gastric,PPI,N,N,No.,Y,N,N,Y,N,N,N,N,N,N,N,Y,N,5,4,1,5,4,1,2,N,2,2,Y,2,0,0,7,5,2,Y
+540,Samad biswas,45,M,Tilkhari,Shalikha,Magura,Diabetes,N,Y,Insulin,No.,N,N,N,Y,Y,N,25,N,N,N,N,Y,N,4,5,2,4,4,7,0,L,4,1,Y,4,0,0,8,8,0,N
+541,Hasu begum,37,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,3,4,2,0,M,0,0,N,0,0,0,9,9,0,N
+542,Khadiza khatun,30,F,Tilkhari,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,4,2,3,2,0,H,0,0,N,0,0,0,7,7,0,N
+543,Nahidul islam,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,4,2,4,3,2,2,M,2,2,Y,7,0,0,8,8,0,N
+544,Rana molla,33,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,29,N,N,N,Y,N,4,5,3,4,4,2,2,L,4,1,Y,4,0,0,8,7,1,N
+545,Saidul molla,40,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,5,2,5,2,3,0,M,1,1,Y,2,0,0,8,6,2,N
+546,Riad hasan,20,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,2,3,1,M,0,0,Y,5,0,0,9,9,0,N
+547,Rupa khatun,49,F,Tilkhari,Shalikha,Magura,Asthama,Corticosteroid ,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,2,4,3,3,0,L,7,3,N,0,0,0,8,6,2,Y
+548,Siraboni begum,22,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,3,3,0,M,0,0,Y,5,0,0,9,9,0,N
+549,Tikka molla,40,M,Tilkhari,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,0,7,3,3,0,L,4,1,Y,3,0,0,8,8,0,N
+550,Mizanur molla,37,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,5,7,2,6,7,0,1,L,2,1,Y,5,0,0,8,6,2,N
+551,Laboni khatun,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,6,7,0,0,M,7,2,N,0,0,0,9,9,0,N
+552,Lovly begum,30,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,3,7,2,5,5,0,0,L,4,1,N,0,0,0,8,7,1,N
+553,Boni khatun,35,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,5,0,0,L,5,2,N,0,0,0,8,8,0,N
+554,Shamim molla,37,M,Tilkhari,Shalikha,Magura,Insomnia ,Sedative,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,Y,4,6,2,4,2,1,0,M,2,1,Y,4,0,0,5,5,0,N
+555,Mitu begum,40,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,2,4,4,1,0,N,0,0,Y,2,0,0,8,6,2,N
+556,Mafuza khatun ,30,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,4,5,2,3,1,2,0,M,0,0,N,0,0,0,9,8,1,N
+557,Milon,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,N,Y,N,N,N,N,N,N,N,Y,N,4,6,1,5,3,2,0,M,4,2,Y,2,0,0,9,9,0,N
+558,Arshad ali,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,6,4,1,0,H,0,0,Y,7,0,0,8,8,0,N
+559,Limon ,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,5,2,1,0,M,0,0,Y,5,0,0,8,8,0,N
+560,Rizvi mojumder,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,2,1,0,M,2,1,Y,7,0,0,7,7,0,N
+561,Mahmudul rifat,23,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,6,2,5,4,1,0,L,0,0,Y,5,0,0,9,9,0,N
+562,Rabbi hasan,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,7,1,7,0,0,0,M,3,1,Y,6,0,0,8,8,0,N
+563,Naeem hasan,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,16,N,N,N,N,Y,N,2,7,0,7,5,0,0,M,5,2,Y,7,0,0,6,6,0,N
+564,Alamin,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,19,N,N,N,N,Y,N,2,7,0,7,2,2,0,L,5,2,Y,7,0,0,8,8,0,N
+565,Dip jaman,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,7,2,7,0,0,0,M,4,3,Y,2,0,0,9,9,0,N
+566,Sabbir hossain,29,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,3,1,0,M,2,1,Y,3,0,0,8,8,0,N
+567,Rifat hasan,32,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,4,0,0,0,M,4,1,Y,3,0,0,9,9,0,N
+568,Himel mia,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,7,0,0,H,7,3,Y,5,0,0,8,8,0,N
+569,Masud parvez,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,7,0,0,L,5,1,Y,4,0,0,8,8,0,N
+570,Nasima khatun,30,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,4,7,1,5,5,0,0,M,5,1,Y,2,0,0,8,6,2,N
+571,Rina begum,40,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,5,5,0,0,N,7,1,N,0,0,0,9,9,0,N
+572,Prosenjit,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,3,7,0,7,7,0,0,H,7,2,Y,7,0,0,8,8,0,N
+573,Kobita begum,25,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,1,7,5,1,0,M,3,1,Y,4,0,0,9,9,0,N
+574,Sohanur rahman,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,7,1,7,5,1,0,L,6,3,Y,6,0,0,8,8,0,N
+575,Mim khatun,28,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,6,2,6,0,0,0,M,4,1,Y,5,0,0,8,8,0,N
+576,Surma khatun,49,F,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,2,2,0,L,7,2,N,0,0,0,8,7,1,N
+577,Koli khatun,20,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,0,0,M,0,0,N,0,0,0,9,9,0,N
+578,Puja roy,22,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,0,7,7,0,0,M,0,0,Y,3,0,0,8,8,0,N
+579,Bithi begum,37,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,2,6,2,5,5,1,0,L,7,2,N,0,0,0,7,7,0,N
+580,Baishakhi paul,33,F,Tilkhari,Shalikha,Magura,Gastric,PPI,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,7,0,0,M,5,1,Y,5,0,0,8,8,0,N
+581,Kaushik biswas,39,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,25,N,N,N,N,Y,N,4,7,0,7,0,0,0,M,2,1,N,0,0,0,8,8,0,N
+582,Apurbo biswas,22,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,0,0,M,0,0,Y,4,0,0,9,9,0,N
+583,Ohidul islam,40,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,5,3,1,0,M,2,5,Y,7,0,0,7,7,0,N
+584,Taher  ,37,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,3,1,0,L,7,3,Y,7,0,0,8,8,0,N
+585,Halim ,39,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,2,0,M,5,2,Y,5,0,0,7,7,0,N
+586,Emrul mia,44,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,6,2,5,5,0,0,M,5,3,Y,7,0,0,6,6,0,Y
+587,Gouri mim,33,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,0,1,0,L,4,1,Y,6,0,0,8,8,0,N
+588,Shristi kundu,40,F,Tilkhari,Shalikha,Magura,Asthama,Corticosteroid ,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,6,5,1,0,M,7,3,N,0,0,0,9,7,2,N
+589,Md. Jakaria,44,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,3,7,2,7,0,0,0,M,4,2,Y,3,0,0,8,8,0,N
+590,Mahfuz khan,23,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,0,0,0,H,0,0,Y,7,0,0,9,9,0,N
+591,Monjurul islam,40,M,Tilkhari,Shalikha,Magura,CVD,N,N,N,L,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,1,7,0,0,0,L,4,1,Y,3,0,0,8,8,0,Y
+592,Nazim uddin,47,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,25,N,N,N,Y,N,2,7,0,7,7,0,0,H,7,3,Y,7,0,0,7,7,0,N
+593,Ripon hossain,20,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,0,0,M,0,0,Y,3,0,0,9,9,0,Y
+594,Arifur rahman,45,M,Tilkhari,Shalikha,Magura,Asthama,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,3,6,2,6,2,0,0,M,7,3,Y,7,0,0,8,8,0,Y
+595,Kayes ahmed,59,M,Tilkhari,Shalikha,Magura,Arthritis,N,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,3,6,2,6,2,0,0,L,3,1,N,0,0,0,6,6,0,Y
+596,Imran ali,51,M,Tilkhari,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,0,N,0,0,N,0,0,0,7,7,0,Y
+597,Meskat khatun,40,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,0,L,7,2,N,0,0,0,9,9,0,N
+598,Mohidul islam,35,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,2,7,0,7,0,0,0,M,5,4,Y,7,0,0,8,8,0,N
+599,Sheikh rony,37,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,25,N,N,N,N,Y,N,1,7,1,7,3,1,0,L,6,3,Y,7,0,0,7,7,0,N
+600,Jahid mortoza,45,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,30,N,N,N,Y,N,3,6,2,6,0,0,0,M,7,3,Y,7,0,0,8,8,0,N
+601,Nahial mamun,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,6,2,6,0,0,0,M,5,2,Y,6,0,0,7,7,0,N
+602,Tamim hasan,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,2,0,0,M,7,1,N,0,0,0,8,8,0,Y
+603,Shakib hasan,40,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,2,0,0,L,5,2,Y,6,0,0,7,7,0,N
+604,Ishrat khatun,28,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,2,0,0,M,3,1,Y,4,0,0,8,7,1,N
+605,Rubaya ,33,F,Tilkhari,Shalikha,Magura,Migraine,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,1,7,0,0,0,M,4,1,Y,5,0,0,8,8,0,N
+606,Nomita paul,45,F,Tilkhari,Shalikha,Magura,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,M,7,2,Y,3,0,0,9,9,0,N
+607,Lima ,22,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,M,0,0,Y,5,0,0,9,9,0,N
+608,Rasel biswas,40,M,Tilkhari,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,M,5,3,Y,7,0,0,8,8,0,N
+609,Lipi begum,38,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,M,7,2,Y,4,0,0,9,9,0,N
+610,Sorbanu khatun,48,F,Tilkhari,Shalikha,Magura,knee pain,Homeopathy,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,0,7,3,2,0,M,4,1,N,0,0,0,7,7,0,Y
+611,Alimul biswas,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,0,7,3,2,0,M,5,3,Y,7,0,0,8,8,0,N
+612,Shuvro sarkar,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,Y,20,23,N,N,N,Y,N,4,7,1,7,0,0,0,L,0,0,Y,5,0,0,9,9,0,N
+613,Jeet sarkar,37,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,0,0,M,5,2,Y,7,0,0,8,8,0,N
+614,Sujoy mondol,44,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,1,0,M,5,1,Y,3,0,0,7,7,0,Y
+615,Munit molla,61,M,Tilkhari,Shalikha,Magura,Asthama,Anti-histamine,N,N,L,N,N,N,N,Y,N,15,N,N,N,N,Y,N,3,7,1,7,5,0,0,L,0,0,Y,3,0,0,6,6,0,Y
+616,Shirpra khatun,55,F,Tilkhari,Shalikha,Magura,knee pain,N,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,3,7,1,7,5,0,0,M,7,1,N,0,0,0,7,7,0,Y
+617,Sagor molla,37,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,5,0,0,M,7,4,Y,7,0,0,8,8,0,N
+618,Risad molla,21,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,5,0,0,M,0,0,Y,5,0,0,9,9,0,N
+619,Sonia khatun,20,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,5,0,0,M,0,0,N,0,0,0,8,8,0,N
+620,Suban biswas,26,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,4,7,0,5,0,0,0,L,0,0,Y,7,0,0,8,8,0,N
+621,Kader biswas,40,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,0,5,0,0,0,M,7,2,Y,7,0,0,9,9,0,N
+622,Abdur rahman,44,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,7,0,0,0,L,5,5,Y,7,0,0,9,9,0,N
+623,Pobir biswas,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,7,1,0,M,7,1,Y,7,0,0,8,8,0,Y
+624,Shakil biswas,25,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,7,1,2,L,7,4,Y,7,0,0,9,9,0,N
+625,Eajul islam,30,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,0,0,2,M,3,1,Y,7,0,0,8,8,0,N
+626,Susmita biswas,37,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,Y,Y,N,Y,N,N,N,N,N,N,N,Y,N,3,7,1,7,7,1,0,M,7,2,N,0,0,0,9,9,0,N
+627,Ridoy mondol,23,M,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,0,0,M,0,0,Y,5,0,0,8,8,0,N
+628,Sadia afrin,20,F,Tilkhari,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,0,7,0,0,0,L,0,0,Y,7,0,0,9,9,0,N
+629,Kawshik paul,25,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,5,7,2,7,7,3,0,H,0,0,N,0,0,0,9,9,0,N
+630,Bolai paul,38,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,2,0,M,7,2,Y,7,0,0,8,8,0,N
+631,Ismail hasan,26,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,Y,N,N,Y,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,1,0,H,5,3,Y,7,0,0,8,8,0,N
+632,Nimai paul,34,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,2,0,M,7,2,Y,7,0,0,8,8,0,N
+633,Nikhil paul,48,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,2,0,H,0,0,N,0,0,0,8,8,0,N
+634,Moktar hasan,35,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,7,2,0,N,3,4,Y,7,0,0,9,9,0,N
+635,Rajib hasan,28,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,2,0,H,0,0,N,0,0,0,8,8,0,N
+636,Mohedir islam,40,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,6,7,0,7,7,0,0,M,7,4,Y,7,0,0,8,8,0,N
+637,Montu molla,55,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,3,7,0,2,0,N,7,5,Y,7,0,0,9,9,0,N
+638,Kosoli begum,28,F,Talian,Kaligonj,Jhenidah,CVD,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,2,0,H,7,3,Y,7,0,0,9,9,0,N
+639,Shahed ali,45,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,Y,N,23,N,N,N,N,Y,N,4,7,2,7,0,2,0,N,7,1,Y,7,0,0,8,8,0,N
+640,Laili begum,40,F,Talian,Kaligonj,Jhenidah,Gastric,PPI,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,2,0,M,7,1,N,0,0,0,9,9,0,N
+641,Eakub biswas,50,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,0,0,L,7,1,Y,7,0,0,10,10,0,N
+642,Fazlu mondol,28,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,5,7,1,7,0,1,0,M,7,2,Y,7,0,0,8,7,1,N
+643,Rasul hasan,26,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,5,7,1,7,7,2,0,H,7,1,Y,7,0,0,10,8,2,N
+644,Siraj mondol,44,M,Talian,Kaligonj,Jhenidah,Gastric,PPI,N,N,No.,N,N,N,N,Y,N,22,N,N,N,N,Y,N,5,7,1,7,0,0,0,N,7,1,Y,7,0,0,10,8,2,N
+645,Yaad ali laskar,65,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,2,7,1,7,0,2,0,H,7,1,Y,7,0,0,9,8,1,N
+646,Hanif ali laskar,50,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,6,0,1,0,M,7,6,Y,7,0,0,9,8,1,N
+647,Pranto,25,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,Y,N,22,N,N,N,N,Y,N,3,7,0,4,0,1,2,L,4,2,Y,4,0,0,9,9,0,N
+648,Selina begum ,32,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,7,7,1,7,0,2,0,M,5,2,N,0,0,0,7,7,0,N
+649,Thamina begum,50,F,Talian,Kaligonj,Jhenidah,CVD,N,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,5,7,2,0,M,5,3,Y,4,0,0,9,7,2,Y
+650,Sorevan nesa,80,F,Talian,Kaligonj,Jhenidah,"CVD, Diabetes",Cardioascular drugs,Y,Insulin,H,Y,N,N,N,N,N,N,N,Y,Y,N,N,N,4,7,3,7,0,2,0,L,0,0,N,0,0,0,8,8,0,Y
+651,Fuljan begum,55,F,Talian,Kaligonj,Jhenidah,Arthritis,NSAID,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,2,7,2,2,0,L,7,3,N,0,0,0,5,5,0,Y
+652,Alauddin ,45,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,3,2,0,N,6,1,Y,7,0,0,10,8,2,N
+653,Torulota begum,26,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,7,0,2,0,H,7,1,N,0,0,0,9,7,2,N
+654,Musaref hossain,33,M,Talian,Kaligonj,Jhenidah,Gastric,N,N,N,No.,N,N,N,N,Y,N,22,N,N,N,N,Y,N,4,7,1,6,0,1,0,H,7,1,Y,7,0,0,10,8,2,N
+655,Sahed lai,42,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,2,0,M,7,2,Y,7,0,0,9,7,2,N
+656,Sucoriat begum,30,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,2,0,M,7,1,Y,6,0,0,8,7,1,N
+657,Hanef ali,50,M,Talian,Kaligonj,Jhenidah,Back pain,NSAID,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,1,3,0,H,7,1,Y,7,0,0,9,7,2,N
+658,Rojia begum,40,F,Talian,Kaligonj,Jhenidah,Arthritis,NSAID,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,7,3,0,L,7,1,Y,4,0,0,8,8,0,N
+659,Tutaram nesa,65,F,Talian,Kaligonj,Jhenidah,Arthritis,NSAID,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,3,7,1,7,7,2,0,H,3,1,N,0,0,0,11,9,2,N
+660,Sajeda begum,55,F,Talian,Kaligonj,Jhenidah,CVD,N,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,3,1,0,H,6,2,Y,3,0,0,7,7,0,N
+661,Sakawat biswas,45,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,2,0,L,7,1,Y,7,0,0,8,8,0,N
+662,Abial biswas,65,M,Talian,Kaligonj,Jhenidah,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,1,7,7,2,0,H,0,0,N,0,0,0,8,8,0,N
+663,Humayun ahmed,30,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,1,0,H,7,1,Y,7,0,0,8,8,0,N
+664,Sobura khatun,40,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,Y,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,3,0,M,7,1,Y,7,0,0,8,8,0,N
+665,Asad ahmed,40,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,Y,N,Y,N,N,N,N,N,N,N,N,Y,N,4,7,2,7,7,4,0,M,7,1,Y,7,0,0,10,8,2,N
+666,Nasima begum,34,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,7,0,3,H,7,3,Y,3,0,0,9,8,1,N
+667,Shopna khatun,25,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,3,7,7,4,0,L,7,2,Y,7,0,0,7,7,0,Y
+668,Ameen hossain,24,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,Y,Y,Y,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,0,0,H,7,1,Y,7,0,0,9,9,0,N
+669,Bony akter,26,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,4,7,3,7,7,7,0,M,3,2,N,0,0,0,10,8,2,N
+670,Pinjira begum,40,F,Talian,Kaligonj,Jhenidah,CVD,Cardioascular drugs,N,N,H,Y,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,1,7,0,L,7,2,Y,5,0,0,10,8,2,N
+671,Fatema begum,45,F,Talian,Kaligonj,Jhenidah,CVD,Cardioascular drugs,N,N,L,N,N,N,N,N,N,N,N,N,N,N,Y,N,1,7,1,7,1,2,0,L,6,2,N,0,0,0,10,9,1,N
+672,Farida begum,40,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,1,7,3,0,0,M,7,3,Y,5,0,0,7,7,0,N
+673,Sobed loskar,55,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,4,4,0,H,7,3,Y,6,0,0,8,8,0,Y
+674,Sayed laskar,52,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,Y,N,15,N,N,N,N,Y,N,3,7,1,7,3,3,0,H,7,2,Y,4,0,0,8,7,1,Y
+675,Asen ali,65,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,Y,Y,Y,Y,N,2,7,2,7,7,2,0,L,0,0,Y,5,0,0,8,8,0,N
+676,Alea begum,50,F,Talian,Kaligonj,Jhenidah,knee pain,NSAID,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,7,7,4,0,N,6,1,Y,6,0,0,8,8,0,N
+677,Abul hasan,65,M,Talian,Kaligonj,Jhenidah,Back pain,NSAID,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,6,7,1,7,3,1,0,H,7,1,Y,7,0,0,7,7,0,Y
+678,Ramela ,25,F,Talian,Kaligonj,Jhenidah,Gastric,PPI,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,5,7,1,7,3,2,0,M,5,3,N,0,0,0,10,8,2,N
+679,Reshma khatun,26,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,7,1,2,0,H,4,2,N,0,0,0,9,9,0,N
+680,Rojina begum,31,F,Talian,Kaligonj,Jhenidah,Back pain,NSAID,N,N,No.,N,N,N,Y,N,N,N,N,N,N,N,Y,N,5,7,1,7,0,1,0,M,7,5,N,0,0,0,9,7,2,N
+681,Sabina begum,30,F,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,Y,N,Y,N,N,N,N,N,N,N,Y,N,5,7,2,7,0,2,0,H,7,3,N,0,0,0,10,8,2,N
+682,Altab mondol,36,M,Talian,Kaligonj,Jhenidah,Back pain,NSAID,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,4,7,1,7,0,2,0,H,7,1,Y,7,0,0,8,7,1,N
+683,Turab mondol,39,M,Talian,Kaligonj,Jhenidah,Gastric,PPI,N,N,No.,N,N,N,N,Y,N,22,N,N,N,N,Y,N,6,7,1,7,1,0,0,N,7,3,Y,7,0,0,10,9,1,Y
+684,Hatem mondol,45,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,2,7,2,1,0,L,7,2,Y,7,0,0,10,8,2,N
+685,Akter mondol,40,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,N,N,Y,Y,N,25,N,N,N,N,Y,N,6,7,2,7,0,1,0,H,7,3,Y,7,0,0,8,8,0,N
+686,Jakir mondol,45,M,Talian,Kaligonj,Jhenidah,Arthritis,N,N,N,No.,N,N,N,N,Y,N,25,N,N,N,N,Y,N,5,7,1,7,0,1,0,L,7,4,Y,7,0,0,8,8,0,Y
+687,Arif mondol,42,M,Talian,Kaligonj,Jhenidah,N,N,N,N,No.,N,Y,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,2,0,H,7,5,Y,7,0,0,10,8,2,N
+688,Odhir master,70,M,Singra,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,7,0,0,L,0,0,N,0,0,0,7,7,0,Y
+689,Raihan mollik,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,Y,Y,Y,Y,N,20,N,N,N,N,Y,N,4,7,2,7,0,0,0,M,0,0,Y,7,0,0,8,8,0,N
+690,Saiful mollik,50,M,Singra,Shalikha,Magura,Diabetes,Anti-diabetic,Y,Medication,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,7,0,0,0,M,7,2,Y,5,0,0,7,7,0,N
+691,Prokash biswas,44,M,Singra,Shalikha,Magura,Allergy,Anti-histamine,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,0,7,7,0,0,L,7,4,Y,7,0,0,9,8,1,N
+692,Sanath biswas,45,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,2,0,M,0,0,Y,7,0,0,8,8,0,N
+693,Shovon biswas,23,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,5,7,2,7,7,2,0,L,0,0,Y,5,0,0,9,9,0,N
+694,Milton hossain,26,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,3,7,1,7,0,0,0,M,0,0,Y,7,0,0,8,8,0,N
+695,Najim hossain,30,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,3,7,1,7,0,0,0,H,3,5,Y,7,0,0,7,7,0,N
+696,Dobir hossain,35,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,18,N,N,N,N,Y,N,2,7,0,7,0,2,0,M,5,7,N,0,0,0,7,7,0,N
+697,Avisekh biswas,24,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,2,7,0,7,7,2,0,M,2,7,Y,7,0,0,8,8,0,N
+698,Gonesh biswas,35,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,Y,N,20,N,N,N,N,Y,N,2,7,1,7,7,0,0,M,5,7,Y,7,0,0,8,8,0,N
+699,Prosanto biswas,55,M,Singra,Shalikha,Magura,CVD,Cardioascular drugs,N,N,H,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,2,7,5,1,0,L,0,0,Y,7,0,0,8,7,1,N
+700,Azizur rahman,28,M,Singra,Shalikha,Magura,N,N,N,N,No.,N,N,N,N,N,N,N,N,N,N,N,Y,N,4,7,1,7,0,0,0,M,2,7,Y,7,0,0,9,8,1,N

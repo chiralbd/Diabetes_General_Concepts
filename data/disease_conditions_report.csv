@@ -1,0 +1,74 @@
+Variable,Outcome,Count,Percent
+Do you have any disease?,N,477,68.14
+,CVD,34,4.86
+,Diabetes,33,4.71
+,Asthama,19,2.71
+,Gastric,18,2.57
+,Arthritis,16,2.29
+,Migraine,13,1.86
+,knee pain,11,1.57
+,Back pain,11,1.57
+,Allergy,11,1.57
+,Vision,7,1.0
+,Insomnia ,5,0.71
+,Waist pain,5,0.71
+,Night fever,4,0.57
+,Kidney problem,4,0.57
+,Neck pain,3,0.43
+,Dementia,3,0.43
+,"CVD, Asthama",2,0.29
+,Paralysis,2,0.29
+,"CVD, Diabetes",2,0.29
+,"CVD, Arthritis",2,0.29
+,Arthritis ,1,0.14
+,"Asthama, Arthritis",1,0.14
+,Gastric ,1,0.14
+,"Arthritis, gastric, vision",1,0.14
+,Chest pain,1,0.14
+,"Kideney problem, CVD",1,0.14
+,"Gastric, constipation",1,0.14
+,"CVD, Gastric",1,0.14
+,"Arthritis, gastric",1,0.14
+,"Asthama, CVD",1,0.14
+,Leg problem,1,0.14
+,Epilepsy,1,0.14
+,Asthama ,1,0.14
+,"CVD, Spasm, asthama",1,0.14
+,"Insomnia, CVD",1,0.14
+,"Kidney problem, CVD",1,0.14
+,muscle spasm,1,0.14
+,"Dementia, Insomnia",1,0.14
+Which medications do you take regularly?,N,541,77.29
+,Cardioascular drugs,32,4.57
+,Anti-diabetic,28,4.0
+,Homeopathy,26,3.71
+,NSAID,23,3.29
+,PPI,19,2.71
+,Anti-histamine,10,1.43
+,Sedative,6,0.86
+,Pain killer,5,0.71
+,Corticosteroid ,3,0.43
+,Anti-epileptic,1,0.14
+,CNS drug,1,0.14
+,Migrain,1,0.14
+,"NSAID, PPI",1,0.14
+,"Cardioascular drugs, PPI",1,0.14
+,Arthritis,1,0.14
+,Y,1,0.14
+Do you have diabetes?,N,665,95.0
+,Y,35,5.0
+What do you do to control diabetes?,N,665,95.0
+,Medication,20,2.86
+,"Medication, exercise",8,1.14
+,Insulin,7,1.0
+How is your blood pressure?,No.,622,88.86
+,L,53,7.57
+,H,25,3.57
+Any diabetic patient in your family history?,N,631,90.14
+,Y,69,9.86
+Do you know that drugs can induce diabetes?,N,634,90.57
+,Y,66,9.43
+Do children and young adults get affected by diabetes? (Age <30)?,N,623,89.0
+,Y,77,11.0
+Is there any relationship between diabetes and pregnancy?,N,563,80.43
+,Y,137,19.57
